@@ -1,0 +1,51 @@
+@import url(//fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Sans+Narrow:400,700);
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: url('fabric_plaid.png');
+  text-shadow: 0 1px 0 #fff;
+}
+
+@media only screen and (min-device-pixel-ratio: 2) {
+  body {
+    background-image: url('fabric_plaid_@2X.png');
+    background-size: 200px 200px;
+  }
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+a {
+  transition: all 0.2s;
+}
+
+.jumbotron {
+  background: none;
+  text-transform: uppercase;
+}
+.jumbotron h1 {
+  font-weight: bolder;
+}
+
+ul.list-group {
+  list-style: none;
+}
+
+.starve, .cocktailicious {
+  padding-left: 45px;
+  background-position: 15px center;
+  background-repeat: no-repeat;
+}
+
+.starve {
+  background-image: url('/static/starve.png');
+}
+
+.cocktailicious {
+  background-image: url('/static/cocktailicious.png');
+}

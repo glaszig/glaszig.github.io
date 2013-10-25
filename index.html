@@ -3,26 +3,32 @@ layout: default
 title: glasz
 ---
 
-<div class="jumbotron">
-	<header class="container">
-		<h1>welcome, sheep.</h1>
-		<p>move along, nothing to see here!</p>
-	</header>
-</div>
-
 <section class="container">
 	<p class="lead">Drats. You're not very obedient, are you?<br>Well, since i'm not your <a href="http://en.wikipedia.org/wiki/Reichstag_fire">bloody</a> <a href="http://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident#Later_statements_about_the_incident">fucking</a> <a href="http://en.wikipedia.org/wiki/Operation_Northwoods">fascist</a> government you're free to go ahead and reward yourself.</p>
+
+	{% if site.posts.first %}
 	<div class="row">
-		<div class="col-md-4">
-			<h3><i class="icon-star"></i> Projects</h3>
+		<div class="col-md-12">
+			<p><span class="label label-primary">latest post</span> <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></p>
+		</div>
+	</div>
+	{% endif %}
+
+	<div class="row">
+		<div class="col-md-5">
+			<h3 class="list-heading"><i class="icon-star"></i> Projects</h3>
 
 			<ul class="list-group">
-				<li><a class="list-group-item starve" href="https://www.starve.io">Starve. Your simple feed reader.</a></li>
-				<li><a class="list-group-item cocktailicious" href="http://www.cocktailiciousapp.com">Cocktailicious. A drinking notebook.</a></li>
+				<li>
+					<a class="list-group-item starve" href="https://www.starve.io">Starve. Your simple feed reader.</a>
+				</li>
+				<li>
+					<a class="list-group-item cocktailicious" href="http://www.cocktailiciousapp.com">Cocktailicious. A drinking notebook.</a>
+				</li>
 			</ul>
 		</div>
 		<div class="col-md-4">
-			<h3><i class="icon-github"></i> Source</h3>
+			<h3 class="list-heading"><i class="icon-github"></i> Source</h3>
 
 			<ul class="list-group">
 				<li><a class="list-group-item" href="https://github.com/glaszig/soundmanager-rails">soundmanager-rails</a></li>
@@ -30,8 +36,8 @@ title: glasz
 				<li><a class="list-group-item" href="https://github.com/glaszig/compass-fontcustom">compass-fontcustom</a></li>
 			</ul>
 		</div>
-		<div class="col-md-4">
-			<h3><i class="icon-male"></i> Himself</h3>
+		<div class="col-md-3">
+			<h3 class="list-heading"><i class="icon-male"></i> Himself</h3>
 
 			<ul class="list-group">
 				<li><a class="list-group-item" href="https://github.com/glaszig"><i class="icon-github-sign"></i> Github</a></li>

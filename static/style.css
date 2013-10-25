@@ -7,6 +7,44 @@ html, body {
 body {
   background: url('fabric_plaid.png');
   text-shadow: 0 1px 0 #fff;
+  font-size: 18px;
+}
+
+pre {
+  background-color: transparent;
+  text-shadow: none;
+}
+
+.highlight {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
+blockquote {
+  border: 1px solid #d3d3d3;
+  border-left-width: 5px;
+  background-color: #e7e7e7;
+  border-radius: 3px;
+}
+
+code {
+  color: inherit;
+  border: 1px solid #d3d3d3;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+header h1 a {
+  color: inherit;
+}
+
+header h1 a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+footer.container {
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 @media only screen and (min-device-pixel-ratio: 2) {
@@ -32,6 +70,10 @@ a {
   font-weight: bolder;
 }
 
+.list-heading {
+  padding-left: 15px;
+}
+
 ul.list-group {
   list-style: none;
 }
@@ -48,4 +90,9 @@ ul.list-group {
 
 .cocktailicious {
   background-image: url('/static/cocktailicious.png');
+}
+
+.comments {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }

@@ -1,10 +1,18 @@
 ---
-layout: default
+layout: master
+title: sheeplog
+body_class: blog
 ---
+
+<div class="jumbotron">
+  <header class="container">
+    <h1><a href="/">sheep<img src="/static/sheep2-128.png">log</a></h1>
+  </header>
+</div>
 
 <div class="container post">
 
-  <h2>{{ page.title }} <small>{{ page.date | date: "%-d %B %Y" }}</small></h2>
+  <h2>{{ page.subtitle }} <small>{{ page.date | date: "%-d %B %Y" }}</small></h2>
 
   {{ content }}
 

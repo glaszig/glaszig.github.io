@@ -5,19 +5,31 @@ html, body {
 }
 
 body {
-  background: url('fabric_plaid.png');
+  background: url('wall4.png');
   text-shadow: 0 1px 0 #fff;
   font-size: 18px;
+}
+
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+    body {
+        background-image: url('wall4@2x.png');
+        background-size: 300px 300px;
+    }
 }
 
 pre {
   background-color: transparent;
   text-shadow: none;
+  border: 0;
 }
 
 .highlight {
-  background-color: rgba(255, 255, 255, 0.3);
-  border-radius: 3px;
+  margin-left: -16px;
+  margin-right: -16px;
+  padding: 0 6px;
 }
 
 blockquote {
@@ -28,9 +40,17 @@ blockquote {
 }
 
 code {
-  color: inherit;
   border: 1px solid #d3d3d3;
   background-color: rgba(255, 255, 255, 0.3);
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+pre code {
+  color: #93a1a1;
 }
 
 header h1 a {
@@ -95,4 +115,14 @@ ul.list-group {
 .comments {
   margin-top: 2em;
   margin-bottom: 2em;
+}
+
+.post, .comments {
+  background: white;
+  border: 1px solid #e3e3e3;
+}
+
+#disqus_thread {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }

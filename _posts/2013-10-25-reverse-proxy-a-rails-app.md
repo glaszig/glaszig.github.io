@@ -40,43 +40,43 @@ After spending some time figuring out `mod_proxy` and `mod_proxy_html` I came up
 
     ProxyPreserveHost Off
 
-> Disables forwarding of the original request's `Host` header to the backend server. This is important, for example, when the backend server is a name based virtual host.
+Disables forwarding of the original request's `Host` header to the backend server. This is important, for example, when the backend server is a name based virtual host.
 
 
     RewriteEngine On
     RewriteRule   ^(?:/app)?/assets/swf/(.*) http://app.example.com/assets/swf/$1 [P]
 
-> Rewrites all incoming requests to assets, e.g. `/assets/swf/soundmanager2.swf`, to the proxied backend.
+Rewrites all incoming requests to assets, e.g. `/assets/swf/soundmanager2.swf`, to the proxied backend.
 
 
     ProxyPass        http://app.example.com/engine-name
     ProxyPassReverse http://app.example.com/engine-name
 
-> Proxies all requests to the given argument. The `ProxyPassReverse` directive should cause redirects contained in the response from the backend server to be rewritten.  
-> Since this somehow did not work I worked around the issue using the `RedirectMatch` directive.
+Proxies all requests to the given argument. The `ProxyPassReverse` directive should cause redirects contained in the response from the backend server to be rewritten.  
+Since this somehow did not work I worked around the issue using the `RedirectMatch` directive.
 
 
     SetOutputFilter  proxy-html
 
-> This puts all incoming HTML-type responses through `mod_proxy_html`'s HTML filter.
+This puts all incoming HTML-type responses through `mod_proxy_html`'s HTML filter.
 
 
     ProxyHTMLDocType "<!DOCTYPE html>"
 
-> The `mod_proxy_html` module scraps doc types. This adds the HTML5 doc type.
+The `mod_proxy_html` module scraps doc types. This adds the HTML5 doc type.
 
 
     ProxyHTMLURLMap  ^/assets http://app.example.com/assets R
     ProxyHTMLURLMap  ^/system http://app.example.com/system R
 
-> This rewrites all references to assets and `/public/system` files to absolute URLs which go directly to the backend server. Just have look at the resulting HTML.
+This rewrites all references to assets and `/public/system` files to absolute URLs which go directly to the backend server. Just have look at the resulting HTML.
 
 
     ProxyHTMLURLMap  /engine-name/ /app/
 
-> Finally, replace all references to the backend server's path to the proxy path.
+Finally, replace all references to the backend server's path to the proxy path.
 
 
     RequestHeader    unset Accept-Encoding
 
-> Browsers might have difficulties displaying/decoding the response. To handle this, I reset the `Accept-Encoding` header.
+Browsers might have difficulties displaying/decoding the response. To handle this, I reset the `Accept-Encoding` header.

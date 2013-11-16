@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  background: url('wall4.png');
+  background: url('snow.png');
   text-shadow: 0 1px 0 #fff;
   font-size: 18px;
 }
@@ -15,7 +15,7 @@ only screen and (-moz-min-device-pixel-ratio: 1.5),
 only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min-device-pixel-ratio: 1.5) {
     body {
-        background-image: url('wall4@2x.png');
+        background-image: url('snow@2x.png');
         background-size: 300px 300px;
     }
 }
@@ -27,8 +27,8 @@ pre {
 }
 
 .highlight {
-  margin-left: -16px;
-  margin-right: -16px;
+  margin-left: -15px;
+  margin-right: -15px;
   padding: 0 6px;
 }
 
@@ -41,16 +41,14 @@ blockquote {
 
 code {
   border: 1px solid #d3d3d3;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: #FDF6E3;
+  color: #586E75;
+  font-size: 80%;
   white-space: pre-wrap;       /* css-3 */
   white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
   white-space: -pre-wrap;      /* Opera 4-6 */
   white-space: -o-pre-wrap;    /* Opera 7 */
   word-wrap: break-word;       /* Internet Explorer 5.5+ */
-}
-
-pre code {
-  color: #93a1a1;
 }
 
 header h1 a {
@@ -119,7 +117,8 @@ ul.list-group {
 
 .post, .comments {
   background: white;
-  border: 1px solid #e3e3e3;
+  border: 1px solid #dfdfdf;
+  box-shadow: 0 2px 3px #efefef;
 }
 
 #disqus_thread {

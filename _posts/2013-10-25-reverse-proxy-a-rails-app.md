@@ -3,6 +3,7 @@ layout: blog
 subtitle: Reverse-proxy a Rails app with Apache
 tags: [rails, proxy, apache]
 comments: true
+permalink: /2013/10/25/reverse-proxy-a-rails-app.html
 ---
 
 Recently I had to make one part of a Rails app available via a path of another Apache vhost.  

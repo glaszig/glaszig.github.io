@@ -1,3 +1,3 @@
 markdown: redcarpet
-permalink: /:year/:month/:title.html
+permalink: /sheeplog/:year/:month/:title.html
 exclude: ['bootstrap']

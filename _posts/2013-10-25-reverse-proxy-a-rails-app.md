@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blog_post
 subtitle: Reverse-proxy a Rails app with Apache
 tags: [rails, proxy, apache]
 comments: true

@@ -1,3 +1,6 @@
 markdown: redcarpet
 permalink: /sheeplog/:year/:month/:title.html
 exclude: ['bootstrap']
+less:
+  compress: true
+  paths: bootstrap/less

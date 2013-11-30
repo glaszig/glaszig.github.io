@@ -1,13 +1,21 @@
-@import url(//fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Sans+Narrow:400,700);
+---
+---
 
-html, body {
-  height: 100%;
-}
+@import "bootstrap.less";
+
+@font-size-base: 14px;
+@container-lg: @container-md;
+@jumbotron-bg: transparent;
+@page-header-border-color: transparent;
+
+@font-family-sans-serif: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+@font-family-serif: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
+@headings-font-family: @font-family-serif;
+
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700|Roboto:400,700);
 
 body {
-  background: url('snow.png');
-  text-shadow: 0 1px 0 #fff;
-  font-size: 22px;
+  background-color: #f9f9f9;
 }
 
 @media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
@@ -28,11 +36,10 @@ pre {
   background-color: transparent;
   text-shadow: none;
   border: 0;
+  code { border: 0; }
 }
 
 .highlight {
-  margin-left: -15px;
-  margin-right: -15px;
   padding: 0 6px;
 }
 
@@ -64,6 +71,10 @@ header h1 a:hover {
   color: inherit;
 }
 
+footer, footer a {
+  color: @gray-light;
+}
+
 footer.container {
   font-size: 16px;
   margin-top: 1em;
@@ -77,20 +88,18 @@ footer.container {
   }
 }
 
-body, h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-
 a {
   transition: all 0.2s;
 }
 
 .jumbotron {
-  background: none;
   text-transform: uppercase;
-}
-.jumbotron h1 {
-  font-weight: bolder;
+  h1 {
+    font-weight: bolder;
+  }
+  small {
+    font-size: 45%;
+  }
 }
 
 .list-heading {
@@ -115,14 +124,23 @@ ul.list-group {
   background-image: url('/static/cocktailicious.png');
 }
 
+.post {
+  font-size: 18px;
+  margin-bottom: 70px;
+
+  iframe {
+    margin: 0 0 10px;
+  }
+}
+
 .comments {
   margin-top: 2em;
   margin-bottom: 2em;
 }
 
-.post, .comments {
+.comments {
   background: white;
-  border: 1px solid #dfdfdf;
+  // border: 1px solid #dfdfdf;
   box-shadow: 0 2px 3px #efefef;
 }
 
@@ -130,3 +148,4 @@ ul.list-group {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+

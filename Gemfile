@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
+gem 'jekyll-less'
 gem 'redcarpet'
 gem 'uglifier'
 gem 'rake'

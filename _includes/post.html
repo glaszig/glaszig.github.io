@@ -1,0 +1,7 @@
+<div class="container post">
+
+  <div class="page-header"><h2><a href="{{ post.url }}">{{ post.subtitle }}</a> <small>{{ post.date | date: "%-d %B %Y" }}</small></h2></div>
+
+  {{ post.content | markdownify }}
+
+</div>

@@ -4,3 +4,4 @@ exclude: ['bootstrap']
 less:
   compress: true
   paths: bootstrap/less
+comments: false

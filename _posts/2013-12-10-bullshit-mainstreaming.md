@@ -9,9 +9,9 @@ Finally, [gender mainstreaming](http://www.un.org/womenwatch/osagi/gendermainstr
 very well have been there since don't-know-don't-care but at least an uproar is [audible](http://gigaom.com/2013/12/02/slap-fight-in-node-js-land/).
 
 It looks like a simple [language barrier has hit here](http://strongloop.com/strongblog/collaboration-not-derision-in-the-node-community/) but people appear to be just too indoctrinated by
-[UN-dictacted propaganda](http://www.un.org/womenwatch/osagi/pdf/e65237.pdf)
+[UN propaganda](http://www.un.org/womenwatch/osagi/pdf/e65237.pdf)
 (look, isn't that gradient beautyful) to keep a cool head.  
 Even better, not complying to Orwell'ish de- and obstruction of language, not
-being politically correct (however defined by somebody else), [will cause people losing their jobs](http://www.joyent.com/blog/the-power-of-a-pronoun).
+being politically correct (however defined by whomever), [will cause people to lose their jobs](http://www.joyent.com/blog/the-power-of-a-pronoun).
 
 Bravo. Cowardly we bow down to the dictate of ever growing fears of being called a sexist, overshadowed by the gods thoughtcrime. We really have come a long way. As a flock of sheep.

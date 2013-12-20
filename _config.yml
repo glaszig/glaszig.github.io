@@ -1,7 +1,10 @@
 markdown: redcarpet
+blog_title: sheeplog
 permalink: /sheeplog/:year/:month/:title.html
 exclude: ['bootstrap']
 less:
   compress: true
   paths: bootstrap/less
 comments: false
+feed_url: /feed.xml
+email: mail@glasz.org

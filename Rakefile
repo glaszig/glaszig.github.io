@@ -9,6 +9,29 @@ JS_PATH = File.join %w{static js bootstrap all.js}
 
 task :default => :jekyll
 
+# shamelessly stolen and modified from
+# http://jonasforsberg.se/2012/12/28/create-jekyll-posts-from-the-command-line
+task :post do
+  title = ENV['title']
+  date = Time.now.strftime '%Y-%m-%d'
+  normalized = title.gsub(/\W+/, ' ').strip.gsub(/\W+/, '_')
+  filename = "_posts/#{date}-#{normalized}.md"
+
+  if File.exist? filename
+    abort "#{filename} already exists!"
+  end
+
+  puts "Creating new post: #{filename}"
+  File.open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: blog_post"
+    post.puts "subtitle: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}"
+    post.puts "tags: []"
+    post.puts "---"
+  end
+end
+
 task :jekyll => :bootstrap do
   sh 'jekyll build'
 end

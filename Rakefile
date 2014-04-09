@@ -36,7 +36,13 @@ task :jekyll => :bootstrap do
   sh 'jekyll build'
 end
 
-task :bootstrap => [:bootstrap_js, :bootstrap_css]
+task :bootstrap => [:bootstrap_js, :bootstrap_css, :bootstrap_fonts]
+
+task :bootstrap_fonts do
+  puts "Copying fonts"
+  root_path = File.expand_path '..', __FILE__
+  sh %{cp -R #{BOOTSTRAP_SOURCE}/dist/fonts/ #{root_path}/fonts/}
+end
 
 task :bootstrap_css do |t|
   puts "Compiling #{BOOTSTRAP_CUSTOM_LESS}"

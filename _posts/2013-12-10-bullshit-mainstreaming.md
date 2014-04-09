@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-subtitle: Bullshit Mainstreaming
+title: Bullshit Mainstreaming
 tags : [opensource, bullshit]
 ---
 

@@ -25,7 +25,7 @@ task :post do
   File.open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: blog_post"
-    post.puts "subtitle: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}"
     post.puts "tags: []"
     post.puts "---"

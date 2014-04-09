@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-subtitle: It's an Outrage!
+title: It's an Outrage!
 tags : [opensource, bullshit, society]
 ---
 

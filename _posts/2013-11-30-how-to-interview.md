@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-subtitle: How to interview
+title: How to interview
 tags: [media, shows, hardtalk, journalism, thruths, lies]
 comments: true
 ---

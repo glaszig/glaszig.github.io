@@ -5,3 +5,18 @@
   {{ post.content | markdownify }}
 
 </div>
+
+<div class="post-navigation">
+  <div class="row">
+    <div class="col-md-6 text-left">
+      {% if page.previous %}
+      <a href="{{page.previous.url}}" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> {{page.previous.title}}</a>
+      {% endif %}
+    </div>
+    <div class="col-md-6 text-right">
+      {% if page.next %}
+      <a href="{{page.next.url}}" class="btn btn-default">{{page.next.title}} <i class="glyphicon glyphicon-chevron-right"></i></a>
+      {% endif %}
+    </div>
+  </div>
+</div>

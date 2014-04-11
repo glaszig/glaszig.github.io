@@ -6,6 +6,7 @@
 
 </div>
 
+{% if page.previous || page.next %}
 <div class="post-navigation">
   <div class="row">
     <div class="col-md-6 text-left">
@@ -20,3 +21,4 @@
     </div>
   </div>
 </div>
+{% endif %}

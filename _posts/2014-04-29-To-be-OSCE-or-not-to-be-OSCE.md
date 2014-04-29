@@ -65,9 +65,9 @@ But [according to OSCE spokeswoman Cathie Burton](http://www.agi.it/english-vers
 
 Except for these vague references I did not manage to find credible resources substantiating this claim. It'd be great if Webster's interview transcript would have been annotated with sources.
 
----
+## Conclusion
 
-However, after hours of research and writing regarding this issue I see multiple possibilities here:
+After hours of research and writing regarding this issue I see multiple possibilities here:
 
 First, the OSCE is in fact part of this (through the Vienna Document) and is now trying to maneuver itself out of the line of fire.
 

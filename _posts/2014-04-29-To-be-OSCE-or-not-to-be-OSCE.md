@@ -41,7 +41,7 @@ German defence minister Ursula von der Leyen (famously known as "Truppenursel" o
 
 > I hope the captured **soldiers** will be released unconditionally.
 
-And Geilenkirchen is actually home to the ["NATO Airborne Early Warning and Control Force (AWACS)"](http://www.e3a.nato.int/eng/home.htm) - a military intelligence branch. Here's [a map](http://osm.org/go/0GA1xBX?way=24908316).
+And Geilenkirchen is actually home to the ["NATO Airborne Early Warning and Control System (AWACS)"](http://www.e3a.nato.int/eng/home.htm) - a military intelligence branch. Here's [a map](http://osm.org/go/0GA1xBX?way=24908316).
 
 ## <span class="text-muted">Claim</span>: Claus Neukirch, OSCE spokesman, said that the OSCE is not involved in this.
 

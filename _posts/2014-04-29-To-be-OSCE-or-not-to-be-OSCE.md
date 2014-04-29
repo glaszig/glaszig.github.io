@@ -57,15 +57,17 @@ Also, the OSCE has a parallel mission with 125 civilian observers running in Ukr
 
 ## <span class="text-muted">Claim</span>: The Ukrainian foreign minister pretended to meet the Secretary General of the OSCE to uphold the charade.
 
-The Ukranian minister allegedly tweeted
+The Ukranian minister allegedly said:
 
 > oh, the Secretary General of the OSCE will be arriving here in order to begin negotiations or to take them over.
 
 But [according to OSCE spokeswoman Cathie Burton](http://www.agi.it/english-version/world/elenco-notizie/201404271720-cro-ren1021-osce_secretary_general_zannier_due_in_kiev) mister Lamberto Zannier was not on the way to ukrain and [neither has such been planned](https://twitter.com/OSCE/status/460459623846526976).
 
+Except for these vague references I did not manage to find credible resources substantiating this claim. It'd be great if Webster's interview transcript would have been annotated with sources.
+
 ---
 
-After hours of research and writing regarding this issue I see multiple possibilities here:
+However, after hours of research and writing regarding this issue I see multiple possibilities here:
 
 First, the OSCE is in fact part of this (through the Vienna Document) and is now trying to maneuver itself out of the line of fire.
 

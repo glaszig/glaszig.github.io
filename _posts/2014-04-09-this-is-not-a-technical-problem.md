@@ -8,7 +8,7 @@ tags : [politics, fos, fosdem]
 
 If you're (even remotely) annoyed by the state of security in computer technology you need to watch this. Poul obviously does not lack common sense as opposed to approximately everybody else, judging from comments on popular tech sites.
 
-<div class="embed">
+<div class="embed embed-video">
 <iframe width="100%" height="480" src="//www.youtube.com/embed/fwcl17Q0bpk" frameborder="0" allowfullscreen></iframe>
 </div>
 

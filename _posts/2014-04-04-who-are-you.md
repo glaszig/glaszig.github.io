@@ -6,7 +6,7 @@ tags : [youtube, ukip, farage, politics]
 
 <p class="lead">Damn, I love that man. Not because of, how other accomplices like to say, his populistic views but because he's darn right.</p>
 
-<div class="embed">
+<div class="embed embed-video">
 <iframe width="100%" height="480" src="//www.youtube.com/embed/dranqFntNgo" frameborder="0" allowfullscreen></iframe>
 </div>
 

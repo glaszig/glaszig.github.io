@@ -47,7 +47,7 @@ And Geilenkirchen is actually home to the ["NATO Airborne Early Warning and Cont
 
 In [this interview](http://tvthek.orf.at/program/ZIB-24/1225/ZIB-24/7837001/Gespraech-mit-Claus-Neukirch-von-der-OSZE/7837005) in the austrian TV magazine ZIB he actually says that these 13 captured are not OSCE, are under the control of the German Bundeswehr (part of which AWACS is), working with the mandate defined in the Vienna Document and it's solely the Germans negotiating:
 
-<div class="embed">
+<div class="embed embed-video">
   <iframe width="100%" height="480" src="//www.youtube.com/embed/9nNbE3vN8hY" frameborder="0" allowfullscreen></iframe>
 </div>
 

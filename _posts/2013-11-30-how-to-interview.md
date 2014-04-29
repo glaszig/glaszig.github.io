@@ -5,7 +5,7 @@ tags: [media, shows, hardtalk, journalism, thruths, lies]
 comments: true
 ---
 
-<div class="embed">
+<div class="embed embed-video">
 <iframe width="100%" height="480" src="//www.youtube.com/embed/8FkhQ1EN5Ec" frameborder="0" allowfullscreen></iframe>
 </div>
 

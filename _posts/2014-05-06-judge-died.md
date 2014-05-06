@@ -5,7 +5,7 @@ date: 2014-04-29 12:56:04
 tags: [persons, copa, john judge, jfk, rfk, mlk]
 ---
 
-I just discovered to much of my surprise that John Judge died [3 weeks ago](http://politicalassassinations.com/2014/04/john-judge-has-passed-away/).  
+I just discovered to much of my surprise that John Judge of [COPA](http://politicalassassinations.com/) died [3 weeks ago](http://politicalassassinations.com/2014/04/john-judge-has-passed-away/).  
 A very reasonable researcher and speaker, I discovered his work only a year ago. So without further ado let me honor his legacy by just letting him speak.
 
 <span class="text-muted">I highly recommend watching these lectures.</span>

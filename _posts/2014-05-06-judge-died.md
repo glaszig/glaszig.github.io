@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: "Judge died"
-date: 2014-04-29 12:56:04
+date: 2014-05-06 21:20:47
 tags: [persons, copa, john judge, jfk, rfk, mlk]
 ---
 

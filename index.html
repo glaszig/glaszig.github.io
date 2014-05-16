@@ -4,15 +4,12 @@ title: glasz
 ---
 
 <section class="container">
-	<p class="lead">Drats. You're not very obedient, are you?</p>
-
-	{% if site.posts.first %}
-	<div class="row">
-		<div class="col-md-12">
-			<p><span class="label label-primary">latest post</span> <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></p>
-		</div>
-	</div>
-	{% endif %}
+	<p class="lead">
+		Drats. You're not very obedient?
+		{% if site.posts.first %}
+			Well then, read <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>.
+		{% endif %}
+	</p>
 
 	<div class="row">
 		<div class="col-md-5">

@@ -6,7 +6,7 @@ tags: [politics, media, german]
 ---
 
 Der erste Post in deutsch. Ich habe lange darauf gewartet und nun endlich den
-richtigen Impuls. Dank an Fraue Krone-Schmalz.
+richtigen Impuls. Dank an Frau Krone-Schmalz.
 
 <div class="embed embed-video">
 <iframe width="100%" height="480" src="//www.youtube.com/embed/18tUv7kr5Xs" frameborder="0" allowfullscreen></iframe>

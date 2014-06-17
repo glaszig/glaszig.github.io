@@ -14,7 +14,7 @@ task :default => :jekyll
 task :post do
   title = ENV['title']
   date = Time.now.strftime '%Y-%m-%d'
-  normalized = title.gsub(/\W+/, ' ').strip.gsub(/\W+/, '-')
+  normalized = title.gsub(/\W+/, ' ').strip.gsub(/\W+/, '-').downcase
   filename = "_posts/#{date}-#{normalized}.md"
 
   if File.exist? filename

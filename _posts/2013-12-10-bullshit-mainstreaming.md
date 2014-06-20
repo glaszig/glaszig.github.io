@@ -14,4 +14,7 @@ It looks like a simple [language barrier has hit here](http://strongloop.com/str
 Even better, not complying to Orwell'ish de- and obstruction of language, not
 being politically correct (however defined by whomever), [will cause people to lose their jobs](http://www.joyent.com/blog/the-power-of-a-pronoun).
 
-Bravo. Cowardly we bow down to the dictate of ever growing fears of being called a sexist, overshadowed by the gods thoughtcrime. We really have come a long way. As a flock of sheep.
+Bravo. Cowardly we bow down to the dictate of ever growing fears
+of being called a sexist, overshadowed by the gods of thoughtcrime.
+
+We really have come a long way. As a flock of sheep.

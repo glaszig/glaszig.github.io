@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'rb-gsl'
 gem 'jekyll'
 gem 'jekyll-less'
 gem 'redcarpet'

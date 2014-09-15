@@ -11,7 +11,10 @@ is the most evil threat to world peace these days.
 
 <a href="/static/sheeplog/a-few-numbers.png"><img src="/static/sheeplog/a-few-numbers.png" class="img-responsive"></a>
 
-NATO, in 2013, spent about 990 $ billion dollars while Russia's expenditure was about 90 $ billion. Evil, evil people those Russians are.
+NATO, in 2013, spent about 990 $ billion dollars while Russia's expenditure was about 90 $ billion.
+In 20 years, Russia not even reached Cold War levels. During the same timespan NATO more than doubled its budgets. 
+
+Evil, evil people those Russians are.
 
 Sources:
 

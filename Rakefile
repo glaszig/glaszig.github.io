@@ -1,3 +1,5 @@
+require 'babosa'
+
 # http://brizzled.clapper.org/blog/2012/03/05/using-twitter-bootstrap-with-jekyll/
 
 # Where our Bootstrap source is installed. Can be overridden by an environment variable.
@@ -14,8 +16,7 @@ task :default => :jekyll
 task :post do
   title = ENV['title']
   date = Time.now.strftime '%Y-%m-%d'
-  normalized = title.gsub(/\W+/, ' ').strip.gsub(/\W+/, '-').downcase
-  filename = "_posts/#{date}-#{normalized}.md"
+  filename = "_posts/#{date}-#{title.to_slug.normalize}.md"
 
   if File.exist? filename
     abort "#{filename} already exists!"

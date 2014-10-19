@@ -7,13 +7,13 @@ tags: [germany, euro, d-mark, currency, brussels]
 
 [Valéry Giscard d'Estaing][1] zur Geburt des Euros:
 
-> "Das große Problem war, die deutschen Arbeitgeber, die deutschen Banken, die Bundesbank davon zu überzeugen, dass die D-Mark abgeschafft werden soll. Dass sie sich von ihr trennen müssen. Genau das war für sie aber sehr schwer, denn die Mark war starke Währung -- ohne Probleme und mit Symbolcharakter."
+> "Das große Problem war, die deutschen Arbeitgeber, die deutschen Banken, die Bundesbank davon zu überzeugen, dass die D-Mark abgeschafft werden soll. Dass sie sich von ihr trennen müssen. Genau das war für sie aber sehr schwer, denn die Mark war eine starke Währung -- ohne Probleme und mit Symbolcharakter."
 
 <div class="embed embed-video">
 <iframe width="100%" height="480" src="//www.youtube.com/embed/_9Cx9q2CdtY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Das ist der gleiche Typ, der kürzlich für eine "Steuerunion" [plädert][2]:
+Das ist derselbe Typ, der kürzlich für eine "Steuerunion" [plädert][2]:
 
 > "Man muss einfach festhalten, dass Europa existiert, es ihm aber nicht gut geht"
 
@@ -21,13 +21,13 @@ Ach, sag bloß!
 
 > So plädierte der 88-Jährige für eine Abstimmung der Haushaltspolitik, eine Steuerunion bis 2030 sowie die Vergemeinschaftung der Schulden der öffentlichen Hand.
 
-Genau! Es reicht ja nicht, dass deutsche Reallöhne in den letzten 15 Jahren [nicht gestiegen][3] sind - alle aber krankhaft heiser nach Wachstum schreien. Lasst uns doch noch Griechenland's Korruption finanzieren. Und Portugal's Schulden. Und die von Spanien, Frankreich und Italien.
+Genau! Es reicht nicht, dass deutsche Reallöhne in den letzten 15 Jahren [nicht gestiegen][3] sind - alle aber krankhaft heiser nach Wachstum schreien. Lasst uns doch noch Griechenland's Korruption finanzieren. Und Portugal's. Und die von Spanien, Frankreich und Italien.
 
 Wenn alle im selben Boot sitzen, geht's bestimmt allen besser.
 
 Auch aus dem Film oben:
 
-> Sie [die Deutschen, sic] warem vom Schreckgespenst einer Inflation geradezu besessen [...]
+> Sie [die Deutschen, sic] waren vom Schreckgespenst einer Inflation geradezu besessen [...]
 
 Tss tss, [paranoide Verschwörungstheoretiker, diese Deutschen][4].
 

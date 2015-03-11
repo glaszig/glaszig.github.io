@@ -1,8 +1,7 @@
 @import "bootstrap.less";
 
 @font-size-base: 14px;
-@container-lg: @container-sm;
-@container-md: @container-sm;
+@container-lg: @container-md;
 @jumbotron-bg: #f9f9f9;
 @page-header-border-color: #f9f9f9;
 
@@ -143,7 +142,7 @@ ul.list-group {
 }
 
 .post {
-  &:extend(.container);
+  position: relative;
   font-size: 18px;
   line-height: 175%;
   h2 {
@@ -153,10 +152,15 @@ ul.list-group {
   p {
     margin-bottom: 30px;
   }
+
+  &:first-child .page-header {
+    margin-top: 0;
+    h1 { margin-top: 0; }
+  }
 }
 
 .post-navigation {
-  &:extend(.container);
+  &:extend(.row);
   margin-top: 50px;
   margin-bottom: 50px;
 }
@@ -236,4 +240,18 @@ video {
 
 iframe[id^='twitter-widget-']{
   width:100%;
+}
+
+.blogroll {
+  font-size: @font-size-base;
+  a {
+    color: #999;
+    &:hover {
+      color: #000;
+    }
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
 }

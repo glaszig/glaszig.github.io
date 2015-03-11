@@ -12,9 +12,18 @@ body_class: blog
   </header>
 </div>
 
-{{ content }}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-10">
+      {{ content }}
 
-{% include email_subscription.html %}
+      {% include email_subscription.html %}
+    </div>
+    <div class="col-sm-2">
+      {% include blogroll.html %}
+    </div>
+  </div>
+</div>
 
 <footer class="container">
   <p class="text-center">When not focussing on technical topics Sheeplog is an attempt to reflect

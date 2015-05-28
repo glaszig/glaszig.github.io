@@ -46,9 +46,10 @@ diesen vorab zu unterbinden, während
 des Betriebes zu stören oder auch zu
 sabotieren. [...]
 
-Alles wegen diesem Co2, dass ganze 0,054 Prozent Anteil der Klimagase bildet.  
+Alles wegen diesem Co2, das einen Anteil von [ganzen 0,038% der Klimagase][4] bildet.  
 Aber ihr wisst ja: alles nur Verschwörungstherie.
 
 [1]: http://www.geoengineeringwatch.org/geoengineering-investigation-demanded-by-shasta-county-residents/
 [2]: http://www.planungsamt.bundeswehr.de/portal/a/plgabw/!ut/p/c4/JYvBDsIgEET_iC0HYvRmgwevetB6Q9iQTSiQ7bZe-vGFOC-ZObwMfKCR3UbRCZXsErxh8nT5_lRN0bVZkDfyqBZZA2GGV38EVL5klN6CWah1ZCeFVS0sqZuVuRlFAaZB23HQjX_0fran29NoY-x9fECd5-sBU1sjUw!!/
 [3]: https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&sqi=2&ved=0CCcQFjAB&url=http%3A%2F%2Fwww.bundeswehr.de%2Fresource%2Fresource%2FMzEzNTM4MmUzMzMyMmUzMTM1MzMyZTM2MzIzMDMwMzAzMDMwMzAzMDY4NzAzNDM0NzkzNjM3NjIyMDIwMjAyMDIw%2FFuture&ei=ZClnVeC5BYvaU-jjgNgP&usg=AFQjCNFX9KmHbpdhU5PFzpbGtWKK0aBCiQ&bvm=bv.93990622,d.d24
+[4]: http://www.wahrheiten.org/blog/klimaluege/

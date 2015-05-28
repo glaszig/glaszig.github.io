@@ -15,10 +15,10 @@ als das Thema tatsächlich noch beleuchtet wurde.
 Nunja...
 
 <div class="embed embed-video">
-<iframe width="100%" height="480" src="//www.youtube.com/embed/O4WhYKP83zo" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="//www.youtube.com/embed/svw-bZvAFX0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Das Original gibt's [bei GeoengineeringWatch][1].
+Ich empfehle dringlichst das Original [bei GeoengineeringWatch][1].
 
 Geo-Engineering wäre in Deutschland wohl auch eine [Angelegenheit der Bundeswehr][2].
 Zitat einer [Studie][3]:

@@ -1,5 +1,4 @@
 url: http://glasz.org
-markdown: redcarpet
 blog_title: sheeplog
 permalink: /sheeplog/:year/:month/:title.html
 exclude: ['bootstrap', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md']

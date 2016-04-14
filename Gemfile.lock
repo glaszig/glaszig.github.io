@@ -38,7 +38,6 @@ GEM
       gsl
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    redcarpet (3.3.4)
     ref (2.0.0)
     rouge (1.10.1)
     safe_yaml (1.0.4)
@@ -59,7 +58,6 @@ DEPENDENCIES
   less (~> 2.4.0)
   rake
   rb-gsl
-  redcarpet
   therubyracer
   uglifier
 

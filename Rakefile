@@ -27,7 +27,7 @@ task :post do
     post.puts "---"
     post.puts "layout: blog_post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
-    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}"
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
     post.puts "tags: []"
     post.puts "---"
   end

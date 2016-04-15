@@ -9,3 +9,5 @@ comments: false
 feed_url: /feed.xml
 author: Martin Glaß
 email: mail@glasz.org
+kramdown:
+  input: GFM

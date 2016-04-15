@@ -8,3 +8,4 @@ gem 'rake'
 gem 'less', '~> 2.4.0', require: false
 gem 'therubyracer'
 gem 'babosa'
+gem 'github-pages'

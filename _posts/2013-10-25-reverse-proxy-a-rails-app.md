@@ -11,7 +11,7 @@ The Rails app is running at `http://app.example.com/engine-name` and has to be a
 
 After spending some time figuring out `mod_proxy` and `mod_proxy_html` I came up with the following:
 
-```apache
+```conf
 <VirtualHost *:80>
   ServerName www.example.com
 

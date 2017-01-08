@@ -22,6 +22,11 @@ In früheren Zeiten hatten die USA [ständig, jeden Tag, Atombomber in der Luft]
 > Ende der fünfziger bis Mitte der sechziger Jahre, zur explosivsten Zeit des Kalten Krieges, kreisten rund um die Uhr, 365 Tage im Jahr, einsatzbereite US-Bomber mit A-Bomben in der Luft. Ihre vier Hauptrouten führten über Grönland, Spanien und das Mittelmeer, über Japan und Alaska.  
 > &mdash; [spiegel.de][brokenarrow]
 
+In Schweden stiftete man mithilfe von U-Booten dann noch totale Verwirrung und womöglich falsche Schuldzuweisungen als zwischen 1980 und 1990 in schwedischen Gewässern U-Boote gesichtet wurden.
+
+> Im Jahr 2000 räumte der frühere US-Verteidigungsminister Caspar Weinberger ein, dass Nato-U-Boote in schwedischen Gewässern operiert hatten.
+> &mdash; [welt.de][uboote]
+
 Offensichtlich war mein Einwand, Herr Rupp hätte doch Recht, unbegründet.
 
 ## NATO
@@ -50,3 +55,4 @@ Ekelhaft.
 [schroeder-kosovo]: https://www.youtube.com/watch?v=gd3U3HWWpPw
 [osterweit]: https://de.wikipedia.org/wiki/NATO-Osterweiterung
 [fud]: https://de.wikipedia.org/wiki/Fear,_Uncertainty_and_Doubt
+[uboote]: https://www.welt.de/politik/ausland/article133521649/Bei-der-U-Boot-Jagd-reissen-alte-Wunden-auf.html

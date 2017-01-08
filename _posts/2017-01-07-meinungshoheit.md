@@ -24,7 +24,7 @@ In früheren Zeiten hatten die USA [ständig, jeden Tag, Atombomber in der Luft]
 
 In Schweden stiftete man mithilfe von U-Booten dann noch totale Verwirrung und womöglich falsche Schuldzuweisungen als zwischen 1980 und 1990 in schwedischen Gewässern U-Boote gesichtet wurden.
 
-> Im Jahr 2000 räumte der frühere US-Verteidigungsminister Caspar Weinberger ein, dass Nato-U-Boote in schwedischen Gewässern operiert hatten.
+> Im Jahr 2000 räumte der frühere US-Verteidigungsminister Caspar Weinberger ein, dass Nato-U-Boote in schwedischen Gewässern operiert hatten.  
 > &mdash; [welt.de][uboote]
 
 Offensichtlich war mein Einwand, Herr Rupp hätte doch Recht, unbegründet.

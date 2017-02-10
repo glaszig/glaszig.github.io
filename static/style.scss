@@ -1,16 +1,18 @@
 ---
 ---
 
-@import "bootstrap";
+@import "bootstrap/variables";
 
 $font-size-base: 14px;
 $container-lg: $container-md;
 $jumbotron-bg: #f9f9f9;
 $page-header-border-color: #f9f9f9;
-
+$icon-font-path: '/fonts/';
 $font-family-sans-serif: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $font-family-serif: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
 $headings-font-family: $font-family-serif;
+
+@import "bootstrap";
 
 // mixins
 @mixin transform($transform) {

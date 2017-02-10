@@ -3,5 +3,5 @@
 	url = https://github.com/twitter/bootstrap.git
 [submodule "bootstrap-sass"]
 	path = bootstrap-sass
-	url = git@github.com:twbs/bootstrap-sass.git
+	url = https://github.com/twbs/bootstrap-sass.git
 	branch = 3.3-stable

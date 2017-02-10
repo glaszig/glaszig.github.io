@@ -1,28 +1,31 @@
-@import "bootstrap.less";
+---
+---
 
-@font-size-base: 14px;
-@container-lg: @container-md;
-@jumbotron-bg: #f9f9f9;
-@page-header-border-color: #f9f9f9;
+@import "bootstrap";
 
-@font-family-sans-serif: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-@font-family-serif: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
-@headings-font-family: @font-family-serif;
+$font-size-base: 14px;
+$container-lg: $container-md;
+$jumbotron-bg: #f9f9f9;
+$page-header-border-color: #f9f9f9;
+
+$font-family-sans-serif: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-serif: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
+$headings-font-family: $font-family-serif;
 
 // mixins
-.transform(@transform) {
-  -webkit-transform: @transform;
-  -moz-transform: @transform;
-  -o-transform: @transform;
-  -ms-transform: @transform;
-  transform: @transform;
+@mixin transform($transform) {
+  -webkit-transform: $transform;
+  -moz-transform: $transform;
+  -o-transform: $transform;
+  -ms-transform: $transform;
+  transform: $transform;
 }
-.box-shadow(@shadow) {
-  -webkit-transform: @shadow;
-  -moz-transform: @shadow;
-  -o-transform: @shadow;
-  -ms-transform: @shadow;
-  box-shadow: @shadow;
+@mixin box-shadow($shadow) {
+  -webkit-transform: $shadow;
+  -moz-transform: $shadow;
+  -o-transform: $shadow;
+  -ms-transform: $shadow;
+  box-shadow: $shadow;
 }
 
 @import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700|Roboto:400,700);
@@ -36,7 +39,7 @@ only screen and (-moz-min-device-pixel-ratio: 1.5),
 only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min-device-pixel-ratio: 1.5) {
     body {
-        background-image: url('snow@2x.png');
+        background-image: url('snow$2x.png');
         background-size: 300px 300px;
     }
 }
@@ -91,7 +94,7 @@ header h1 a:hover {
 }
 
 footer, footer a {
-  color: @gray-light;
+  color: $gray-light;
 }
 
 footer.container {
@@ -102,7 +105,7 @@ footer.container {
 
 @media only screen and (min-device-pixel-ratio: 2) {
   body {
-    background-image: url('fabric_plaid_@2X.png');
+    background-image: url('fabric_plaid_$2X.png');
     background-size: 200px 200px;
   }
 }
@@ -162,7 +165,7 @@ ul.list-group {
 }
 
 .post-navigation {
-  &:extend(.row);
+  @extend .row;
   margin-top: 50px;
   margin-bottom: 50px;
 }
@@ -223,19 +226,19 @@ video {
   top: 80%;
   max-width: 400px;
   background: #777;
-  .box-shadow(0 15px 10px #777);
-  .transform(rotate(-1deg));
+  @include box-shadow(0 15px 10px #777);
+  @include transform(rotate(-1deg));
 }
 
 .well-sheet:after {
-  .transform(rotate(1deg));
+  @include transform(rotate(1deg));
   right: 10px;
   left: auto;
 }
 
 .email-signup-container {
-  &:extend(.container);
-  &:extend(.text-center);
+  @extend .container;
+  @extend .text-center;
   padding: 0;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -246,7 +249,7 @@ iframe[id^='twitter-widget-']{
 }
 
 .blogroll {
-  font-size: @font-size-base;
+  font-size: $font-size-base;
   a {
     color: #999;
     &:hover {

@@ -47,13 +47,16 @@ only screen and (min-device-pixel-ratio: 1.5) {
 
 pre {
   background-color: transparent;
+  color: inherit;
   text-shadow: none;
   border: 0;
+  margin: 0;
   code { border: 0; }
 }
 
 .highlight {
   padding: 0 6px;
+  margin: 30px 0;
 }
 
 blockquote {
@@ -67,16 +70,15 @@ blockquote {
   overflow: hidden;
 }
 
+.highlight, code {
+  background-color: #eee;
+  border: 1px solid #ddd;
+  color: #586e75;
+}
+
 code {
-  border: 1px solid #d3d3d3;
-  background-color: #FDF6E3;
-  color: #586E75;
   font-size: 80%;
-  white-space: pre-wrap;       /* css-3 */
-  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-  white-space: -pre-wrap;      /* Opera 4-6 */
-  white-space: -o-pre-wrap;    /* Opera 7 */
-  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  white-space: nowrap;
 }
 
 header h1 a {

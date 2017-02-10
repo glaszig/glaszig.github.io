@@ -9,8 +9,6 @@ comments: false
 feed_url: /feed.xml
 author: Martin Glaß
 email: mail@glasz.org
-gems:
-  - jekyll-bootstrap-sass
 kramdown:
   input: GFM
   hard_wrap: false

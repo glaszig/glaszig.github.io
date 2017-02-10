@@ -11,3 +11,4 @@ author: Martin Glaß
 email: mail@glasz.org
 kramdown:
   input: GFM
+  hard_wrap: false

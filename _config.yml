@@ -9,6 +9,10 @@ comments: false
 feed_url: /feed.xml
 author: Martin Glaß
 email: mail@glasz.org
+sass:
+  load_paths:
+    - _sass
+    - bootstrap-sass/assets/stylesheets
 kramdown:
   input: GFM
   hard_wrap: false

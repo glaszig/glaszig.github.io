@@ -1,9 +1,16 @@
 <div class="post">
 
-  <div class="page-header"><h1><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%-d %b %Y" }}</small></h1></div>
+  <div class="page-header">
+    <h1><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%-d %b %Y" }}</small></h1>
+  </div>
 
   {{ content }}
 
+  {% unless page.tags == empty %}
+  <div class="tags">
+    <small class="tags">Tagged with {{ page.tags | join: ', ' }}</small>
+  </div>
+  {% endunless %}
 </div>
 
 {% if page.previous || page.next %}

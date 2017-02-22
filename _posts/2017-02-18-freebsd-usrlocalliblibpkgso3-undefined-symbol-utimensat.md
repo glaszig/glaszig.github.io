@@ -99,7 +99,9 @@ FreeBSD: {
 {% highlight sh %}
 # pkg --version
 1.9.4
+{% endhighlight %}
 
+{% highlight sh %}
 # pkg delete -f pkg
 Checking integrity... done (0 conflicting)
 Deinstallation has been requested for the following 1 packages (of 0 packages in the universe):
@@ -114,7 +116,9 @@ The operation will free 10 MiB.
 Proceed with deinstalling packages? [y/N]: y
 [1/1] Deinstalling pkg-1.9.4_1...
 [1/1] Deleting files for pkg-1.9.4_1: 100%
+{% endhighlight %}
 
+{% highlight sh %}
 # pkg install -y pkg
 The package management tool is not yet installed on your system.
 Do you want to fetch and install it now? [y/N]: y
@@ -137,7 +141,9 @@ pkg: warning: database version 33 is newer than libpkg(3) version 31, but still 
 Updating database digests format: 100%
 Checking integrity... done (0 conflicting)
 The most recent version of packages are already installed
+{% endhighlight %}
 
+{% highlight sh %}
 # pkg --version
 1.5.4
 {% endhighlight %}

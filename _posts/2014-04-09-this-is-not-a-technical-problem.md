@@ -1,7 +1,11 @@
 ---
 layout: blog_post
 title: This is not a technical problem
-tags : [politics, fos, fosdem]
+tags:
+  - tech
+  - politics
+  - fos
+  - fosdem
 ---
 
 <p class="lead">If not for <a href="https://www.freebsd.org/doc/en/articles/nanobsd/article.html">NanoBSD</a> already, I almost fell in serious love with <a href="http://en.wikipedia.org/wiki/Poul-Henning_Kamp">Poul-Henning Kamp</a>.</p>

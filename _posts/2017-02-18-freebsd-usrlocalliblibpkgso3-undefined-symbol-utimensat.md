@@ -3,6 +3,7 @@ layout: blog_post
 title: 'FreeBSD: /usr/local/lib/libpkg.so.3: Undefined symbol "utimensat"'
 date: 2017-02-18 19:00:41 +0100
 tags:
+  - tech
   - FreeBSD
   - pkgng
 ---

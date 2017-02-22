@@ -1,7 +1,11 @@
 ---
 layout: blog_post
 title: Reverse-proxy a Rails app with Apache
-tags: [rails, proxy, apache]
+tags:
+  - tech
+  - rails
+  - proxy
+  - apache
 comments: true
 permalink: /2013/10/25/reverse-proxy-a-rails-app.html
 ---

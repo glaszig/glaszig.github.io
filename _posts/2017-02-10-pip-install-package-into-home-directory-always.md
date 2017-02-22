@@ -3,6 +3,7 @@ layout: blog_post
 title: "pip: install package into home directory - always"
 date: 2017-02-10 01:31:04 +0100
 tags:
+  - tech
   - python
   - pip
   - config

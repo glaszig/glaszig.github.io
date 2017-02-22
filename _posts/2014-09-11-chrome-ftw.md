@@ -2,7 +2,8 @@
 layout: blog_post
 title: Chrome ftw!
 date: 2014-09-11 12:54:38
-tags: []
+tags:
+  - tech
 ---
 
 Chrome supported [device emulation][1] for a while now but it was always rather simple

@@ -41,6 +41,17 @@ explanations why those are a real problems and should be replaced, I'll do so.
 
 Until then, go fix a real issue. Go get a life.
 
+## Update
+
+The project's maintainers are now actively censoring sociopolitical comments on
+this sociopolitical issue. I get the original comments via email. There's
+nothing offensive but much criticism. They point to their [Code of Conduct][coc]
+which mainly seeks to prevent harassment which means criticism is now harassment.
+
+This is absolutely obnoxious newspeak and goes to show a deliberate bias or
+inability to discuss such matters.
+
+
 [semver]: https://robots.thoughtbot.com/maintaining-open-source-projects-versioning
 [broken-1]: https://github.com/thoughtbot/factory_bot/issues/1055
 [broken-2]: https://github.com/EBWiki/EBWiki/issues/1072
@@ -49,3 +60,4 @@ Until then, go fix a real issue. Go get a life.
 [factory_girl]: https://github.com/thoughtbot/factory_girl
 [gh-issue]: https://github.com/thoughtbot/factory_bot/issues/921
 [rosie]: https://en.wikipedia.org/wiki/Rosie_the_Riveter
+[coc]: http://archive.is/IAdPC

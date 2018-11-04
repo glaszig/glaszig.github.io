@@ -8,4 +8,4 @@ gem 'rake'
 gem 'less', '~> 2.4.0', require: false
 gem 'mini_racer'
 gem 'babosa'
-gem 'github-pages'
+gem 'github-pages', group: :jekyll_plugins

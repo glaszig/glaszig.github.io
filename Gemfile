@@ -6,6 +6,6 @@ gem 'jekyll-less'
 gem 'uglifier'
 gem 'rake'
 gem 'less', '~> 2.4.0', require: false
-gem 'therubyracer'
+gem 'mini_racer'
 gem 'babosa'
 gem 'github-pages'

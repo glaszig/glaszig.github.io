@@ -1,4 +1,4 @@
-url: http://glasz.org
+url: https://glasz.org
 blog_title: sheeplog
 permalink: /sheeplog/:year/:month/:title.html
 exclude: ['bootstrap', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md']

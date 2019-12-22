@@ -1,0 +1,158 @@
+---
+---
+
+$tablet: 40rem;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: #000;
+  background: linear-gradient(340deg, #000 0%, #000 70%, #343434 100%);
+  min-height: 100%;
+  font-size: 16px;
+}
+
+body {
+  color: #f1f1f1;
+  font-weight: 200;
+  font-family: -apple-system;
+  line-height: 1.25;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  text-shadow: 0 0 5px #fff;
+  .meta {
+    font-weight: 200;
+  }
+}
+
+h1 {
+  font-size: 3rem;
+  color: #fff;
+}
+
+p {
+  margin: 2rem 0;
+}
+
+b {
+  font-weight: 400;
+}
+
+a:link, a:visited {
+  color: #f1f1f1;
+  text-decoration: none;
+  border-bottom: 1px solid #a1a1a1;
+}
+
+.container {
+  max-width: $tablet;
+  margin: auto;
+  padding: 0 1rem;
+  @media (min-width: $tablet) {
+    padding: 0;
+  }
+}
+
+header {
+  font-size: 1.25rem;
+  margin: 5rem 0;
+}
+
+section {
+  margin: 3rem auto;
+  text-align: center;
+  @media (min-width: $tablet) {
+    margin: 10rem auto;
+    &:first-child {
+      margin-top: 5rem;
+    }
+    &:last-child {
+      margin-bottom: 5rem;
+    }
+  }
+}
+
+ul.styled {
+  list-style: none;
+}
+
+.intro {
+  font-size: 1.5rem;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  @media (min-width: $tablet) {
+    font-size: 2rem;
+    hyphens: none;
+    -webkit-hyphens: none;
+  }
+}
+
+.projects {
+  font-size: 0.9rem;
+}
+.project-icon {
+  padding-left: 24px;
+  background-position: 2px center;
+  background-repeat: no-repeat;
+}
+.starve-icon {
+  @extend .project-icon;
+  background-image: url('/static/starve.png');
+}
+.cocktailicious-icon {
+  @extend .project-icon;
+  background-image: url('/static/cocktailicious.png');
+}
+svg.github-icon {
+  color: #fff;
+  fill: currentColor;
+  vertical-align: middle;
+}
+
+.work {
+  figure {
+    flex: 1 auto;
+    min-height: 400px;
+    margin: 2rem 0;
+    position: relative;
+    &:first-child {
+      margin-left: 0;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+  figcaption {
+    position: absolute;
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    bottom: 0;
+    width: 100%;
+    background: rgba(#000, 0.9);
+    color: #fff;
+    a:link {
+      display: block;
+      border: 0;
+      padding: 2rem;
+    }
+  }
+
+  $works: bubble starve cocktailicious;
+  @each $work in $works {
+    .#{$work} {
+      background-image: url("/static/work/#{$work}.jpg");
+      background-size: cover;
+      background-position: top center;
+      @media (min-width: $tablet) {
+        background-image: url("/static/work/#{$work}-tablet.jpg");
+      }
+    }
+  }
+}
+

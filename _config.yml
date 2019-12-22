@@ -7,7 +7,6 @@ less:
   paths: bootstrap/less
 comments: false
 feed_url: /feed.xml
-author: Martin Glaß
 email: mail@glasz.org
 sass:
   load_paths:

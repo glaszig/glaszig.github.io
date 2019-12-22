@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}{% if page.page_title %} - {{ page.page_title }}{% endif %}</title>
+    <link rel="stylesheet" type="text/css" href="/static/glasz.css">
+    <link href="{{ site.feed_url | expand_urls: site.url }}" rel="alternate" title="{{site.blog_title}}" type="application/atom+xml">
+  </head>
+
+  <body class="{{page.body_class}}">
+
+    {{ content }}
+
+  </body>
+</html>

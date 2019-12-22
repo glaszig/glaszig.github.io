@@ -1,16 +1,13 @@
 url: https://glasz.org
 blog_title: sheeplog
 permalink: /sheeplog/:year/:month/:title.html
-exclude: ['bootstrap', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md']
-less:
-  compress: true
-  paths: bootstrap/less
+exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md']
 comments: false
 feed_url: /feed.xml
 email: mail@glasz.org
 sass:
+  style: compressed
   load_paths:
-    - _sass
     - bootstrap-sass/assets/stylesheets
 kramdown:
   input: GFM

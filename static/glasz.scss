@@ -69,7 +69,10 @@ a:link, a:visited {
 
 header {
   font-size: 1.25rem;
-  margin: 5rem 0;
+  margin-bottom: 2rem;
+  @media (min-width: $tablet) {
+    margin: 5rem 0;
+  }
 }
 
 section {
@@ -94,21 +97,27 @@ ul.styled {
   font-size: 1.5rem;
   font-weight: 300;
   color: rgba(#fff, 0.7);
-  hyphens: auto;
-  -webkit-hyphens: auto;
   h1 {
     color: #fff;
     text-shadow: 0 0 3px #fff;
+    line-height: 1;
     .meta {
       color: rgba(#fff, 0.7);
       font-weight: 300;
       text-shadow: 0 0 3px rgba(#fff, 0.7);
     }
   }
+  p {
+    margin-bottom: 3rem;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    @media (min-width: $tablet) {
+      hyphens: none;
+      -webkit-hyphens: none;
+    }
+  }
   @media (min-width: $tablet) {
     font-size: 2rem;
-    hyphens: none;
-    -webkit-hyphens: none;
   }
 }
 

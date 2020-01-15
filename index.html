@@ -24,51 +24,20 @@ title: glasz
 		</header>
 
 		<div class="work">
-			<figure class="bubble">
+      {% for project in site.data.projects %}
+			<figure class="{{ project.id }}">
 				<div class="shot"></div>
 				<figcaption>
-					<h3><a href="https://bubble.email">bubble.email</a></h3>
-					<p>email lists for everybody.</p>
+					<h3><a href="{{ project.link }}">{{ project.title }}</a></h3>
+					<p>{{ project.intro }}</p>
 					<p>
-						<span class="label">ruby</span>
-						<span class="label">rails</span>
-						<span class="label">javascript</span>
-						<span class="label">email</span>
-						<span class="label">frontend</span>
-						<span class="label">backend</span>
+						{% for tag in project.tags %}
+						<span class="label">{{ tag }}</span>
+						{% endfor %}
 					</p>
 				</figcaption>
 			</figure>
-			<figure class="starve">
-				<div class="shot"></div>
-				<figcaption>
-					<h3><a href="https://starve.de">starve</a></h3>
-					<p>a simple feed reader.</p>
-					<p>
-						<span class="label">ruby</span>
-						<span class="label">rails</span>
-						<span class="label">javascript</span>
-						<span class="label">rss</span>
-						<span class="label">atom</span>
-						<span class="label">frontend</span>
-						<span class="label">backend</span>
-					</p>
-				</figcaption>
-			</figure>
-			<figure class="cocktailicious">
-				<div class="shot"></div>
-				<figcaption>
-					<h3><a href="http://cocktailiciousapp.com">cocktailicious</a></h3>
-					<p>your drinking notebook</p>
-					<p>
-						<span class="label">objective c</span>
-						<span class="label">cocoa touch</span>
-						<span class="label">ios</span>
-						<span class="label">iphone</span>
-						<span class="label">app</span>
-					</p>
-				</figcaption>
-			</figure>
-		</div>
+      {% endfor %}
+    </div>
 	</section>
 </article>

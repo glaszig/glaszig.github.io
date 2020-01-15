@@ -1,0 +1,35 @@
+- id: bubble
+  title: bubble.email
+  link: https://bubble.email
+  intro: email lists for everybody.
+  tags:
+    - ruby
+    - rails
+    - javascript
+    - email
+    - frontend
+    - backend
+
+- id: starve
+  title: Starve
+  link: https://bubble.email
+  intro: a simple feed reader.
+  tags:
+    - ruby
+    - rails
+    - javascript
+    - rss
+    - atom
+    - frontend
+    - backend
+
+- id: cocktailicious
+  title: Cocktailicious
+  link: http://cocktailiciousapp.com
+  intro: your drinking notebook.
+  tags:
+    - objective c
+    - cocoa touch
+    - ios
+    - iphone
+    - app

@@ -131,7 +131,7 @@ svg.github-icon {
   vertical-align: middle;
 }
 
-.work {
+.projects {
   figure {
     flex: 1 auto;
     margin: 2rem 0;
@@ -166,11 +166,11 @@ svg.github-icon {
     }
   }
 
-  @each $work in (bubble starve cocktailicious) {
-    .#{$work} .shot {
-      background-image: url("/static/work/#{$work}.jpg");
+  @each $project in (bubble starve cocktailicious) {
+    .#{$project} .shot {
+      background-image: url("/static/projects/#{$project}.jpg");
       @media (min-width: $tablet) {
-        background-image: url("/static/work/#{$work}-tablet.jpg");
+        background-image: url("/static/projects/#{$project}-tablet.jpg");
       }
     }
   }

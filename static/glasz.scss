@@ -112,6 +112,18 @@ ul.styled {
   }
 }
 
+.button {
+  display: inline-block;
+  font-family: 'Teko';
+  font-size: 2rem;
+  background: #f0f0f0;
+  color: #343434 !important;
+  box-shadow: 0 0 5px #343434;
+  padding: 0.25rem 1rem;
+  border-radius: 3px;
+  border-bottom: 0 !important;
+}
+
 .project-icon {
   padding-left: 24px;
   background-position: 2px center;

@@ -18,25 +18,31 @@ html {
 body {
   color: #f1f1f1;
   font-weight: 200;
-  font-family: 'Teko', sans-serif;
+  font-family: sans-serif;
   line-height: 1.25;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Teko';
   font-weight: 400;
-  text-shadow: 0 0 5px #fff;
   .meta {
     font-weight: 200;
   }
+}
+h1, h2 {
+  text-shadow: 0 0 5px #fff;
 }
 
 h1 {
   font-size: 3rem;
   color: #fff;
 }
+h3 {
+  font-size: 1.5rem;
+}
 
 p {
-  margin: 2rem 0;
+  margin-bottom: 1rem;
 }
 
 b {
@@ -104,9 +110,6 @@ ul.styled {
   }
 }
 
-.projects {
-  font-size: 0.9rem;
-}
 .project-icon {
   padding-left: 24px;
   background-position: 2px center;
@@ -129,38 +132,41 @@ svg.github-icon {
 .work {
   figure {
     flex: 1 auto;
-    min-height: 400px;
     margin: 2rem 0;
-    position: relative;
+    border-radius: 8px;
+    border: 1px solid #343434;
+    background-color: darken(#343434, 10%);
+    box-shadow: 0 0 5px #343434;
+    overflow: auto;
     &:first-child {
       margin-left: 0;
     }
     &:last-child {
       margin-right: 0;
     }
+    > * {
+      margin: 0.5rem;
+    }
+    .shot {
+      background-size: cover;
+      background-position: top center;
+      border-radius: 8px;
+      min-height: 400px;
+    }
   }
   figcaption {
-    position: absolute;
     text-align: left;
-    font-size: 1.5rem;
-    font-weight: bolder;
-    bottom: 0;
-    width: 100%;
-    background: rgba(#000, 0.9);
     color: #fff;
     a:link {
       display: block;
       border: 0;
-      padding: 2rem;
+      padding: 0.5rem 0;
     }
   }
 
-  $works: bubble starve cocktailicious;
-  @each $work in $works {
-    .#{$work} {
+  @each $work in (bubble starve cocktailicious) {
+    .#{$work} .shot {
       background-image: url("/static/work/#{$work}.jpg");
-      background-size: cover;
-      background-position: top center;
       @media (min-width: $tablet) {
         background-image: url("/static/work/#{$work}-tablet.jpg");
       }
@@ -168,3 +174,12 @@ svg.github-icon {
   }
 }
 
+.label {
+  display: inline-block;
+  font-size: 0.9rem;
+  padding: 0.25rem;
+  margin: 0.25rem 0;
+  color: darken(#f1f1f1, 30%);
+  border: 1px solid darken(#f1f1f1, 30%);
+  border-radius: 3px;
+}

@@ -12,7 +12,7 @@
 
 - id: starve
   title: Starve
-  link: https://bubble.email
+  link: https://starve.de
   intro: a simple feed reader.
   tags:
     - ruby

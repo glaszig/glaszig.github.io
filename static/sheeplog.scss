@@ -64,7 +64,10 @@ h1.logo {
   img { vertical-align: middle; }
 }
 
-article, .post-navigation, .tags {
+article {
+  margin: 4rem 0;
+}
+.post-navigation, .tags {
   margin: 2rem 0;
 }
 

@@ -1,8 +1,5 @@
-<div class="post">
-
-  <div class="page-header">
-    <h1><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%-d %b %Y" }}</small></h1>
-  </div>
+<article>
+  <h1><a href="{{ post.url }}">{{ post.title }}</a> <small class="post-date">{{ post.date | date: "%-d %b %Y" }}</small></h1>
 
   {{ content }}
 
@@ -11,19 +8,16 @@
     <small class="tags">Tagged with {{ page.tags | join: ', ' }}</small>
   </div>
   {% endunless %}
-</div>
+</article>
 
 {% if page.previous || page.next %}
-<div class="post-navigation">
-  <div class="col-md-6 text-left">
-    {% if page.previous %}
-    <a href="{{page.previous.url}}" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> {{page.previous.title}}</a>
-    {% endif %}
-  </div>
-  <div class="col-md-6 text-right">
-    {% if page.next %}
-    <a href="{{page.next.url}}" class="btn btn-default">{{page.next.title}} <i class="glyphicon glyphicon-chevron-right"></i></a>
-    {% endif %}
-  </div>
-</div>
+<nav class="post-navigation">
+  {% if page.previous %}
+  <a href="{{page.previous.url}}"><i class="glyphicon glyphicon-chevron-left"></i> {{page.previous.title}}</a>
+  {% endif %}
+
+  {% if page.next %}
+  <a href="{{page.next.url}}">{{page.next.title}} <i class="glyphicon glyphicon-chevron-right"></i></a>
+  {% endif %}
+</nav>
 {% endif %}

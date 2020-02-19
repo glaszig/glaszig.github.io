@@ -1,7 +1,7 @@
 url: https://glasz.org
 blog_title: sheeplog
 permalink: /sheeplog/:year/:month/:title.html
-exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md']
+exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md', 'bootstrap-sass']
 comments: false
 feed_url: /feed.xml
 email: mail@glasz.org

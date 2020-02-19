@@ -3,30 +3,21 @@ layout: master
 body_class: blog
 ---
 
-<div class="jumbotron">
-  <header class="container">
-    <h1 class="text-center" style="font-size: 44px;">
-      <img src="/static/sheep@2x.png" width="64" height="64"><br>
-      <a href="/sheeplog">sheeplog</a>
-    </h1>
-  </header>
-</div>
+<header class="brand">
+  <h1 class="logo">
+    <img src="/static/sheep@2x.png" width="64" height="64">
+    <a href="/sheeplog">sheeplog</a>
+  </h1>
+</header>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-10">
-      {{ content }}
+{{ content }}
 
-      {% include email_subscription.html %}
-    </div>
-    <div class="col-sm-2">
-      {% include blogroll.html %}
-    </div>
-  </div>
-</div>
+{% include email_subscription.html %}
 
-<footer class="container">
-  <p class="text-center">When not focussing on technical topics Sheeplog is an attempt to reflect
+<!-- {% include blogroll.html %} -->
+
+<footer>
+  <p>When not focussing on technical topics Sheeplog is an attempt to reflect
   on the reason for mankind being submissive to tyranny. Why every single one
   of us likes to be a sheep.<br>You can reach me via <a href="mailto:{{site.email}}">{{site.email}}</a>.</p>
 </footer>

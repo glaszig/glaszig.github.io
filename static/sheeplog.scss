@@ -64,7 +64,7 @@ h1.logo {
   img { vertical-align: middle; }
 }
 
-article {
+article, footer {
   margin: 4rem 0;
 }
 .post-navigation, .tags {
@@ -95,6 +95,14 @@ figure {
 p {
   hyphens: auto;
   -webkit-hyphens: auto;
+}
+
+footer {
+  background-color: #000;
+  border: 1px solid #242424;
+  padding: 0.5rem 1rem;
+  margin-left: -1rem;
+  margin-right: -1rem;
 }
 
 .post-date, .tags {

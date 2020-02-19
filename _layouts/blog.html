@@ -12,12 +12,12 @@ body_class: blog
 
 {{ content }}
 
-{% include email_subscription.html %}
-
 <!-- {% include blogroll.html %} -->
 
 <footer>
   <p>When not focussing on technical topics Sheeplog is an attempt to reflect
   on the reason for mankind being submissive to tyranny. Why every single one
-  of us likes to be a sheep.<br>You can reach me via <a href="mailto:{{site.email}}">{{site.email}}</a>.</p>
+  of us likes to be a sheep. You can reach me via <a href="mailto:{{site.email}}">{{site.email}}</a>.</p>
+
+  {% include email_subscription.html %}
 </footer>

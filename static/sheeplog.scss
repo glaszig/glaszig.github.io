@@ -89,7 +89,10 @@ div.highlight {
   margin-left: -1rem;
   margin-right: -1rem;
 }
-.highlight {
+.highlight,
+.highlight pre,
+.highlight code,
+.highlight .err {
   background-color: #1c1c1c;
 }
 .highlight pre {

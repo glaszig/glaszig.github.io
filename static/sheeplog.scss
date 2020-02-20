@@ -105,6 +105,23 @@ footer {
   margin-right: -1rem;
 }
 
+input[type=email],
+input[type=text],
+button[type=submit] {
+  font-size: 1rem;
+  padding: 0.25rem;
+  border: 1px solid #242424;
+}
+input[type=email],
+input[type=text] {
+  background-color: #151515;
+}
+button[type=submit] {
+  text-transform: uppercase;
+  background-color: transparent;
+  color: inherit;
+}
+
 .post-date, .tags {
   white-space: nowrap;
   font-weight: lighter;

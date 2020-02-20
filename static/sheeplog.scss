@@ -71,7 +71,10 @@ article, footer {
   margin: 2rem 0;
 }
 
-blockquote, figure.highlight, p code {
+blockquote,
+figure.highlight,
+div.highlight,
+p code {
   background-color: #1c1c1c;
   border: 1px solid #242424;
 }
@@ -80,20 +83,29 @@ p code {
   color: lightyellow;
 }
 
-blockquote {
-  border-left: 2px solid #ededed;
-  padding: 0.5rem 1rem;
+blockquote,
+figure.highlight,
+div.highlight {
   margin-left: -1rem;
   margin-right: -1rem;
 }
-
-figure {
-  margin-left: -1rem;
-  margin-right: -1rem;
+.highlight {
+  background-color: #1c1c1c;
+}
+.highlight pre {
+  margin: 0;
+  white-space: pre;
+}
+.highlight > pre {
+  margin: 0;
+  padding: 1rem;
   overflow: scroll;
-  pre {
-    padding: 0 1rem;
-  }
+}
+.gl pre { margin-right: 1rem; }
+
+blockquote {
+  border-left: 2px solid #ededed;
+  padding: 0.5rem 1rem;
 }
 
 p {

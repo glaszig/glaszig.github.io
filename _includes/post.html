@@ -1,8 +1,5 @@
-<div class="post">
-
-  <div class="page-header">
-    <h1><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%-d %b %Y" }}</small></h1>
-  </div>
+<article>
+  <h1><a href="{{ post.url }}">{{ post.title }}</a> <small class="post-date">{{ post.date | date: "%-d %b %Y" }}</small></h1>
 
   {{ content }}
 
@@ -11,19 +8,27 @@
     <small class="tags">Tagged with {{ page.tags | join: ', ' }}</small>
   </div>
   {% endunless %}
-</div>
+</article>
 
 {% if page.previous || page.next %}
-<div class="post-navigation">
-  <div class="col-md-6 text-left">
-    {% if page.previous %}
-    <a href="{{page.previous.url}}" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> {{page.previous.title}}</a>
-    {% endif %}
-  </div>
-  <div class="col-md-6 text-right">
-    {% if page.next %}
-    <a href="{{page.next.url}}" class="btn btn-default">{{page.next.title}} <i class="glyphicon glyphicon-chevron-right"></i></a>
-    {% endif %}
-  </div>
-</div>
+<nav class="post-navigation">
+  {% if page.previous %}
+  <a href="{{page.previous.url}}">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 1024">
+      <path d="M448 320L320 192 0 512l320 320 128-128L256 512 448 320z" />
+    </svg>
+    {{page.previous.title}}
+  </a>
+  {% endif %}
+
+  {% if page.next %}
+  <a href="{{page.next.url}}">
+    {{page.next.title}}
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 1024">
+      <path d="M128 192L0 320l192 192L0 704l128 128 320-320L128 192z"/>
+    </svg>
+  </a>
+  {% endif %}
+</nav>
 {% endif %}

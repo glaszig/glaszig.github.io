@@ -1,7 +1,7 @@
 url: https://glasz.org
 blog_title: sheeplog
 permalink: /sheeplog/:year/:month/:title.html
-exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md']
+exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'README.md', 'bootstrap-sass']
 comments: false
 feed_url: /feed.xml
 email: mail@glasz.org
@@ -11,4 +11,14 @@ sass:
     - bootstrap-sass/assets/stylesheets
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true
+  syntax_highlighter_opts:
+    # formatter: HTML
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    # css_class: 'highlight'
+    # line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1

@@ -162,6 +162,12 @@ button[type=submit] {
       text-decoration: none;
     }
   }
+  svg {
+    width: 24px;
+    height: 24px;
+    fill: #fff;
+    vertical-align: middle;
+  }
 }
 
 .text-left {

@@ -134,6 +134,7 @@ button[type=submit] {
 input[type=email],
 input[type=text] {
   background-color: #151515;
+  color: inherit;
 }
 button[type=submit] {
   text-transform: uppercase;

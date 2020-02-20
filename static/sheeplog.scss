@@ -71,9 +71,13 @@ article, footer {
   margin: 2rem 0;
 }
 
-blockquote, .highlight {
+blockquote, figure.highlight, p code {
   background-color: #1c1c1c;
   border: 1px solid #242424;
+}
+p code {
+  padding: 0.25rem;
+  color: lightyellow;
 }
 
 blockquote {

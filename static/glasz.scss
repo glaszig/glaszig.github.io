@@ -47,7 +47,7 @@ h3 {
 }
 
 p {
-  margin-bottom: 1rem;
+  margin: 2rem 0;
 }
 
 b {
@@ -71,10 +71,6 @@ a:link, a:visited {
 
 header {
   font-size: 1.25rem;
-  margin-bottom: 2rem;
-  @media (min-width: $tablet) {
-    margin: 5rem 0;
-  }
 }
 
 footer {
@@ -83,7 +79,6 @@ footer {
 
 section {
   margin: 3rem auto;
-  text-align: center;
   @media (min-width: $tablet) {
     margin: 10rem auto;
     &:first-child {
@@ -114,16 +109,12 @@ ul.styled {
     }
   }
   p {
-    margin-bottom: 3rem;
     hyphens: auto;
     -webkit-hyphens: auto;
     @media (min-width: $tablet) {
       hyphens: none;
       -webkit-hyphens: none;
     }
-  }
-  @media (min-width: $tablet) {
-    font-size: 2rem;
   }
 }
 

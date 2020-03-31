@@ -120,7 +120,9 @@ Vor dem Hintergrund des beschriebenen Zahlendilemmas wird also auch in Spanien,
 ein weiteres in den Medien als Krisenherd kolportieres Land, nie eine verlässliche
 Zahl von tatsächlich in COVID-19 begründeten Todesfällen zu erhalten sein.
 
-Man beachte den weiterhin normalen [Verlauf der europäischen Sterblichkeit][euromomo]:
+Die folgende Grafik von ["Mortality monitoring in Europe, EuroMOMO"][euromomo]
+zeigt die Anzahl der Sterbefälle aller Altersstufen in Europa pro Woche
+seit Woche 4, 2016. Man beachte den weiterhin normalen Verlauf.
 
 <figure>
 <img src="/static/sheeplog/euromomo.png" class="Verlauf akuter Atemwegserkrankungen" style="width:100%">

@@ -11,7 +11,7 @@ sass:
     - bootstrap-sass/assets/stylesheets
 kramdown:
   input: GFM
-  hard_wrap: true
+  hard_wrap: false
   syntax_highlighter_opts:
     # formatter: HTML
     # Rouge Options › https://github.com/jneen/rouge#full-options

@@ -103,7 +103,7 @@ italienischen nationalen Gesundheitsinstituts ISS an Brisanz:
 Woran die Menschen tatsächlich verstarben wird ausgelassen. Man spricht
 lediglich von "COVID-19-positiven Verstorbenen".
 
-Desweiteren bezeichnete der Tagesspiegel 2015 Italien als ["das China des Europas"
+Desweiteren bezeichnete der Tagesspiegel 2015 Italien als ["das China Europas"
 wegen der hohen Luftverschmutzung][italien-china]:
 
 > In [Italien] starben im Jahr 2012 an Feinstaub, an Stickoxiden und Ozon

@@ -193,9 +193,7 @@ Antibiotika-Resistenzen in Europa bei gleichzeitig steigender Influenza-Letalit�
 
 ## Motive
 
-Ich wurde unl채ngst gefragt, welche Motive es g채be, dass L채nder die Zahlen f채lschen.
-
-F채lschung per-se sehe ich nicht; beobachte aber Folgendes.
+Man fragt sich: Wie kann das sein? Was geht da vor? Ich beobachte Folgendes.
 
 1. Wir leben im Informationszeitalter, wir sind imstande alles nachzuschlagen.
 Alle paar Meter schreit jemand "Fake-News!" und "Nazi!".

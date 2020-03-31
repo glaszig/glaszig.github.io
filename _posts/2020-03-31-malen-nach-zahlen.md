@@ -103,6 +103,16 @@ italienischen nationalen Gesundheitsinstituts ISS an Brisanz:
 Woran die Menschen tatsächlich verstarben wird ausgelassen. Man spricht
 lediglich von "COVID-19-positiven Verstorbenen".
 
+Desweiteren bezeichnete der Tagesspiegel 2015 Italien als ["das China des Europas"
+wegen der hohen Luftverschmutzung][italien-china]:
+
+> In [Italien] starben im Jahr 2012 an Feinstaub, an Stickoxiden und Ozon
+> 84.400 Menschen, dreiundzwanzigmal so viele wie im Straßenverkehr.
+
+Gleiches Problem besteht in China, [bekannt unter der Bezeichnung "Pekinghusten"][pekinghusten].
+Könnte es sein, dass die Masse der Grippe- und COVID-19-Fällen in Italien
+vielmehr mit Feinstaub belasteten Lungen zusammenhängt?
+
 Ein kurzer Blick nach Spanien, zum Gesundheitsministerium, offenbart einen
 "[Leitfaden zur Handhabung von COVID-19-Leichen][mscbs-manual]",
 der die Gerichtsmediziner des Landes auf Seite 6 unter dem Punkt "Autopsien"
@@ -274,6 +284,8 @@ wie folgt zitiert wird:
 [deutschland-tests]: https://www.ptaheute.de/index.php?id=5599
 [italy-death-count]: https://www.telegraph.co.uk/global-health/science-and-disease/have-many-coronavirus-patients-died-italy/
 [iss-study]: https://www.epicentro.iss.it/coronavirus/bollettino/Report-COVID-2019_17_marzo-v2.pdf
+[italien-china]: https://m.tagesspiegel.de/gesellschaft/panorama/luftverschmutzung-beim-smog-ist-italien-das-china-europas/12668866.html
+[pekinghusten]: https://rp-online.de/panorama/ausland/wieder-smog-alarm-in-peking_aid-14477315
 [mscbs-manual]: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_cadaveres_COVID-19.pdf
 [italy-study-influenza-deaths]: https://pubmed.ncbi.nlm.nih.gov/31401203/
 [def-excess-mortality-de]: https://de.wikipedia.org/wiki/Übersterblichkeit

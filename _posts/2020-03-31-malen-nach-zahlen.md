@@ -183,9 +183,9 @@ und Personal aus dem Urlaub zurückgerufen werden musste.
 Der Perspektive zuträglich ist auch die Frage, [wieviele Menschen denn täglich so
 sterben][eu-mortality]?
 
-- Deutschland: 2.600
-- Italien: 1.700
-- Spanien: 1.200
+- Deutschland: 2.600 bei 83 Mio. Einwohnern
+- Italien: 1.700 bei 60 Mio. Einwohnern
+- Spanien: 1.200 bei 46 Mio. Einwohnern
 
 Wir halten fest: Jeder zählt wie er will, Spanien führt keine Obduktionen mehr
 durch, Italien - ein bankrottes Land - leidet seit langem unter hoher

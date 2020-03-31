@@ -19,7 +19,7 @@ werden. Datenschutz wird [verkehrt in Seuchenschutz][telekom-handydaten].
 <img src="/static/sheeplog/jhu-dashboard.png" class="COVID-19-Dashboard" style="width:100%">
 </figure>
 
-> **An alle neu hinzugestoßenen hier im Neuland**:  
+> **An alle neu Hinzugestoßenen hier im Neuland**:  
 > Willkommen. Unterstrichene
 Textstellen nennen sich Link oder Verknüpfung. Diese kann man antippen oder
 -klicken woraufhin sich die hinterlegte Webseite öffnet. Es handelt sich dabei

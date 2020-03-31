@@ -5,7 +5,7 @@ date: 2020-03-31 15:16:32 +0200
 tags: []
 ---
 
-Weltweit 80.0000 [Infizierte][jhu-dashboard].
+Weltweit 800.000 [Infizierte][jhu-dashboard].
 Knapp 40.000 Tote. 11.000 Corona-Tote [allein in Italien][italien-tote].
 Innerhalb von zwei Wochen steigt die Anzahl COVID-19-positiv Getesteter
 von 1.000 auf 23.000. Zur Zeit sind es 60.000.

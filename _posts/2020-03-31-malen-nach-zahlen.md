@@ -188,8 +188,8 @@ sterben][eu-mortality]?
 - Spanien: 1.200 bei 46 Mio. Einwohnern
 
 Wir halten fest: Jeder zählt wie er will, Spanien führt keine Obduktionen mehr
-durch, Italien - ein bankrottes Land - leidet seit langem unter hoher
-Antibiotika-Resistenz bei gleichzeitig steigender Influenza-Letalität.
+durch, Italien - ein bankrottes Land - leidet seit Langem unter einer der höchsten
+Antibiotika-Resistenzen in Europa bei gleichzeitig steigender Influenza-Letalität.
 
 ## Motive
 

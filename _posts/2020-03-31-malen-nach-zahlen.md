@@ -148,28 +148,28 @@ in jüngerer Vergangenheit in Italien":
 
 Übersetzt:
 
-> Wir schätzen, 7,027, 20,259, 15,801 und 24,981 der erhöhten Todesfälle sind, respektive,
+> Wir schätzen, 7.027, 20.259, 15.801 und 24.981 der erhöhten Todesfälle sind, respektive,
 > den Influenza-Epidemien von 2013/14, 2014/15, 2015/16 und 2016/17 zuzuschreiben.
 
 **Schon in den vorangegangenen fünf Grippe-Epidemien in Italien verdreifachten
 sich die Grippe-Todesfälle**
 
-Im selben Jahr, 2019, stellte eine [OECD-Studie][oecd-antibiotics-study] fest:
+Im selben Jahr, 2019, stellte eine [OECD-Studie][oecd-antibiotics-study] zu Antibiotikaresistenzen fest:
 
-> Im Jahr 2017 wurden in Italien 28 tägliche Dosen pro 1000 Patienten verschrieben,
+> Im Jahr 2017 wurden in Italien 28 tägliche [Antibiotika] Dosen pro 1000 Patienten verschrieben,
 > verglichen mit dem OECD-Länder-Durschschnitt von 18 Dosen.
 
-> Italien hat eine überdurchnittlich hohe Rate von Gesundheitswesen-bezogene Infektionen
+> Italien hat eine überdurchnittlich hohe Rate von Gesundheitswesen-bezogenen Infektionen
 
 und empfiehlt:
 
-> Es müssen Strategien zur Bekämpfung von antimokribischer Resistenz eingeführt werden
+> Es müssen Strategien zur Bekämpfung von antimikrobischer Resistenz eingeführt werden
 
 Sieht man sich weiter in der italienischen Medienlandschaft um,
-findet man [Bereichterstattung vom Januar 2018][italy-influenza-collapse],
+findet man [Berichterstattung vom Januar 2018][italy-influenza-collapse],
 die darlegt, dass schon während der Grippewelle vor 3 Jahren Intensiv-Stationen
-im Norden Italiens vollüberlastet waren, Operationen verschoben werden musste
-und Krankenpersonal aus dem Urlaub zurückgerufen werden mussten.
+im Norden Italiens überlastet waren, Operationen verschoben werden 
+und Personal aus dem Urlaub zurückgerufen werden musste.
 
 Der Perspektive zuträglich ist auch die Frage, [wieviele Menschen denn täglich so
 sterben][eu-mortality]?
@@ -208,13 +208,12 @@ für Wirtschaft drängt in Brüssel auf einen "Corona-Rettungsschirm"][coronabon
 Wer ist eigentlich dieser Kommissar? [Paolo Gentiloni, ein Italiener][gentiloni].
 
 3. Niemand scheint sich an den [Skandal um H1N1 von 2009][h1n1] zu erinnern.
-Ich will in Erinnerung rufen, dass damals 600.000.000 € von Steuergeldern
-für ein Medikament namens Tamiflu ausgegeben wurde. Das Verwendungsdatum kam
+Ich will in Erinnerung rufen, dass Deutschland damals für 600.000.000 € Steuergelder
+ein Medikament namens Tamiflu gekauft hat. Das Verfallsdatum kam
 und die Packungen blieben ungeöffnet. Medikamentenpreise sind
 in Deutschland unreguliert. Die Krankenkassen müssen die Preise der Pharmaindustrie zahlen.
 Die WHO hat 2009 die Pandemie ausgerufen, was die Länder zum Medikamentkauf
 auffordert. Wenn Roche sagt "Tamiflu rettet euch", dann kaufen die Minister auch.
-Es sind immer noch die gleichen Dumpfbacken, schaut sie euch an.
 
 4. Die WHO wird von der Bill & Melinda Gates Foundation finanziert.
 Die Gates-Stiftung ist [der größte Einzel-Investor][who-corruption].
@@ -237,8 +236,8 @@ coronavirus.jetzt, u.v.a., neben eigenen Berechnungen".
 Mit Informationen, die dem etablierten Nachrichtenkartell vom Tellerrand fielen,
 stellt man fest, dass jeder sein eigenes Hysterie-Süppchen kocht.
 Länder zählen wie sie wollen, ändern die Bemessungsgrundlagen nach Gutdünken
-mittem im Erhebungsprozess und die Medien befeuern die Panik durch
-unreflektierte, piss-warme Berichterstattung.
+mitten im Erhebungsprozess und die Medien befeuern die Panik durch
+unreflektierte Berichterstattung.
 
 Herauszustellen ist hier die Rolle der öffentlich rechtlichen Rundfunkanstalten
 in Deutschland, die mit einem Jahresetat von **8 Milliarden Euro** einfach im

@@ -217,7 +217,7 @@ Wer ist eigentlich dieser Kommissar? [Paolo Gentiloni, ein Italiener][gentiloni]
 empfehle ich die [arte-Dokumentation "Profiteure der Angst"][h1n1] aus 2009.
 Kurz: Die WHO hat 2009 die Pandemie ausgerufen, was die Länder zum Medikamentkauf
 auffordert. Damals hat Deutschland für 600.000.000 € Steuergelder ein Medikament
-namens Tamiflu gekauft hat. Das Verfallsdatum kam und die Packungen blieben
+namens Tamiflu gekauft. Das Verfallsdatum kam und die Packungen blieben
 ungeöffnet. Medikamentenpreise sind in Deutschland unreguliert.
 Die Krankenkassen müssen die Preise der Pharmaindustrie zahlen.
 

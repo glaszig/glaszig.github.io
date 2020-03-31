@@ -158,7 +158,7 @@ in jüngerer Vergangenheit in Italien":
 > Wir schätzen, 7.027, 20.259, 15.801 und 24.981 der erhöhten Todesfälle sind, respektive,
 > den Influenza-Epidemien von 2013/14, 2014/15, 2015/16 und 2016/17 zuzuschreiben.
 
-**Schon in den vorangegangenen fünf Grippe-Epidemien in Italien verdreifachten
+**Also schon während der vorangegangenen fünf Grippe-Epidemien in Italien verdreifachten
 sich die Grippe-Todesfälle**
 
 Im selben Jahr, 2019, stellte eine [OECD-Studie][oecd-antibiotics-study] zu Antibiotikaresistenzen fest:
@@ -214,7 +214,8 @@ Oder es fehlt, wie gesagt, einfach an Medienkompetenz. [Denn der EU-Kommissar
 für Wirtschaft drängt in Brüssel auf einen "Corona-Rettungsschirm"][coronabonds].
 Wer ist eigentlich dieser Kommissar? [Paolo Gentiloni, ein Italiener][gentiloni].
 
-3. Niemand scheint sich an den [Skandal um H1N1 von 2009][h1n1] zu erinnern.
+3. Niemand scheint sich an den Skandal um H1N1 zu erinnern. Zur Auffrischung
+empfehle ich die [arte-Dokumentation "Profiteure der Angst"][h1n1] aus 2009.
 Ich will in Erinnerung rufen, dass Deutschland damals für 600.000.000 € Steuergelder
 ein Medikament namens Tamiflu gekauft hat. Das Verfallsdatum kam
 und die Packungen blieben ungeöffnet. Medikamentenpreise sind

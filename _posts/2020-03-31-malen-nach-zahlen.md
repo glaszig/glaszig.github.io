@@ -251,10 +251,10 @@ als Pensionen an Mitarbeiter zahlen -- zusätzlich zur gesetzlichen Rente, verst
 
 Der gemeine Deutsche erkauft sich mit monatlich 17,50 € die Korruption
 jener Institutionen, die ihn als Wachhund der Öffentlichkeit auch vor Situationen
-schützen soll, die die Politik [vorsätzlich misbraucht][hass-gesetze].
+schützen soll, die die Politik vorsätzlich misbraucht.
 
-Die derzeitigen Einschnitte in die Grundrechte werden jetzt schon politisch
-ausgenutzt. Es wird von Notstandsgesetzen geredet. Von Einsatz des Militärs
+Die derzeitigen Einschnitte in die Grundrechte werden [schon jetzt ausgenutzt][hass-gesetze].
+Es wird von Notstandsgesetzen geredet. Von Einsatz des Militärs
 im Inneren. In Spanien und Italien gilt die totale Ausgangssperre und
 [Menschen werden verhaftet][spain-arrests].
 

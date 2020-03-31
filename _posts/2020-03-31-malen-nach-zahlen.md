@@ -145,7 +145,7 @@ Professor Ioannidis][ioannidis]:
 ## Historisches
 
 Ein kurzer Blick zurück nach Italien, in die epidemilogische Geschichte, fördert
-weitere interessante Daten hervor, die Perspektive zurechtrücken.
+weitere interessante Daten zutage, die die Perspektive zurechtrücken.
 
 Vor 4 Monaten, im November 2019, veröffentlichten Forscher in Italien
 die [Studie][italy-study-influenza-deaths] "Untersuchung des Einflusses

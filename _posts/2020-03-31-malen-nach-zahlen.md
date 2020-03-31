@@ -199,36 +199,32 @@ Fälschung per-se sehe ich nicht; beobachte aber Folgendes.
 
 1. Wir leben im Informationszeitalter, wir sind imstande alles nachzuschlagen.
 Alle paar Meter schreit jemand "Fake-News!" und "Nazi!".
-Wenn es aber zur Sache geht, halten alle das Maul. Es gilt, gefolgsam einen
-unsichtbaren Feind unter Aufgabe von Hirnkapazität und Bejubeln der Obrigkeit,
-zu bekämpfen. Der schockerstarrten Bevölkerung fehlt es massiv an Medienkompetenz
-und es wird nicht bemerkt, wie man vom "Kampf gegen die Drogen" über den
-"Kampf gegen den Terrorismus" beim "Kampf gegen den Virus" angekommen ist.
+Wenn aber quer durch die Medienlandschaft unüberprüfte COVID-19-Zahlen
+gestreut werden, erkennt niemand mehr Falschinformationen als solche.
+Die schockerstarrte Bevölkerung bemerkt nicht, wie man vom "Kampf gegen die Drogen"
+über den "Kampf gegen den Terrorismus" beim "Kampf gegen den Virus" angekommen ist.
 
 2. Bevölkerung und Medien haben offenbar auch das Gedächtnis verloren.
 Niemand erinnert sich, dass Italien, Spanien und Portugal nach der geplatzten
 Finanzblase 2008 beinahe den Weg von Griechenland gegangen wären.
 Die südländischen Wirtschaftsräume sind bankrott, in Italien wurde seitdem
 (auch) das Gesundheitswesen kaputtgespart, wie oben demonstriert.
-Diese Länder hängen am Geldhahn der EU. Wer glaubt, dass die Situtation dort
-nicht auf Teufel-komm-raus ausgenutzt wird, hat den Schuss nicht gehört.
-Oder es fehlt, wie gesagt, einfach an Medienkompetenz. [Denn der EU-Kommissar
-für Wirtschaft drängt in Brüssel auf einen "Corona-Rettungsschirm"][coronabonds].
+Diese Länder hängen am Geldhahn der EU. [Der EU-Kommissar
+für Wirtschaft drängt derzeit in Brüssel auf einen "Corona-Rettungsschirm"][coronabonds].
 Wer ist eigentlich dieser Kommissar? [Paolo Gentiloni, ein Italiener][gentiloni].
 
 3. Niemand scheint sich an den Skandal um H1N1 zu erinnern. Zur Auffrischung
 empfehle ich die [arte-Dokumentation "Profiteure der Angst"][h1n1] aus 2009.
-Ich will in Erinnerung rufen, dass Deutschland damals für 600.000.000 € Steuergelder
-ein Medikament namens Tamiflu gekauft hat. Das Verfallsdatum kam
-und die Packungen blieben ungeöffnet. Medikamentenpreise sind
-in Deutschland unreguliert. Die Krankenkassen müssen die Preise der Pharmaindustrie zahlen.
-Die WHO hat 2009 die Pandemie ausgerufen, was die Länder zum Medikamentkauf
-auffordert. Wenn Roche sagt "Tamiflu rettet euch", dann kaufen die Minister auch.
+Kurz: Die WHO hat 2009 die Pandemie ausgerufen, was die Länder zum Medikamentkauf
+auffordert. Damals hat Deutschland für 600.000.000 € Steuergelder ein Medikament
+namens Tamiflu gekauft hat. Das Verfallsdatum kam und die Packungen blieben
+ungeöffnet. Medikamentenpreise sind in Deutschland unreguliert.
+Die Krankenkassen müssen die Preise der Pharmaindustrie zahlen.
 
 4. Die WHO wird von der Bill & Melinda Gates Foundation finanziert.
 Die Gates-Stiftung ist [der größte Einzel-Investor][who-corruption].
-Gleichzeitig ist Gates [in diversen Pharma-Unternehmen investiert][gates-invest]
-und [rennt umher um vor Epedimien zu warnen][bill-drum].
+Gleichzeitig investiert Gates [in diverse Pharma-Unternehmen][gates-invest]
+und [warnt vor Epedimien][bill-drum].
 
 ## Fazit
 
@@ -243,7 +239,7 @@ Datenangaben Dritter wie den Redaktionen der Berliner Morgenpost, Zeit.de,
 Tagesspiegel.de, Saarbrücker Zeitung, Radio Bremen, Risklayer, CEDIM (KIT),
 coronavirus.jetzt, u.v.a., neben eigenen Berechnungen".
 
-Mit Informationen, die dem etablierten Nachrichtenkartell vom Tellerrand fielen,
+Mit Informationen, die dem etablierten "Journalismus" vom Tellerrand fielen,
 stellt man fest, dass jeder sein eigenes Hysterie-Süppchen kocht.
 Länder zählen wie sie wollen, ändern die Bemessungsgrundlagen nach Gutdünken
 mitten im Erhebungsprozess und die Medien befeuern die Panik durch
@@ -264,14 +260,8 @@ ausgenutzt. Es wird von Notstandsgesetzen geredet. Von Einsatz des Militärs
 im Inneren. In Spanien und Italien gilt die totale Ausgangssperre und
 [Menschen werden verhaftet][spain-arrests].
 
-Der Verhältnismäßigkeitsgrundsatz rechtfertigt die Aufhebung der Versammlungs-
-und Berufsfreiheit in Abwägung von Gefahr und Rechtsbeschneidung
-mit solch lächerlichen Zahlen als Grundlage [absolut nicht][civil-rights].
-
-Die Gefolgsamkeit und Leichtgläubigkeit der Bevölkerung entlarvt die Masse
-als ahnungslose Wohlstandsbratzen.
-
-Welch Ironie, dass der Italiener [Ignazio Silone][silone] wie folgt zitiert wird:
+Welch Ironie, dass der italienische Schriftsteller [Ignazio Silone][silone]
+wie folgt zitiert wird:
 
 > Der neue Faschismus wird nicht sagen: Ich bin der Faschismus.  
 > Er wird sagen: Ich bin der Antifaschismus.

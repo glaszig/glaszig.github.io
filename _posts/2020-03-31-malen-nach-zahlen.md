@@ -19,6 +19,13 @@ werden. Datenschutz wird [verkehrt in Seuchenschutz][telekom-handydaten].
 <img src="/static/sheeplog/jhu-dashboard.png" class="COVID-19-Dashboard" style="width:100%">
 </figure>
 
+> **An alle neu hinzugestoßenen hier im Neuland**:  
+> Willkommen. Unterstrichene
+Textstellen nennen sich Link oder Verknüpfung. Diese kann man antippen oder
+-klicken woraufhin sich die hinterlegte Webseite öffnet. Es handelt sich dabei
+um Quellenangaben. Quellen ermöglichen die Überprüfunung in einem Text
+getroffener Aussagen. Sie kennen das.
+
 ## Was sagen diese Zahlen?
 
 Einer [Statistik][statistik] sollten empirische Daten (Erfahrungswerte) zugrunde liegen,

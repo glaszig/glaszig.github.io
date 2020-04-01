@@ -253,17 +253,12 @@ Länder zählen wie sie wollen, ändern die Bemessungsgrundlagen nach Gutdünken
 mitten im Erhebungsprozess und die Medien befeuern die Panik durch
 unreflektierte Berichterstattung.
 
-Herauszustellen ist hier die Rolle der öffentlich rechtlichen Rundfunkanstalten
-in Deutschland, die mit einem Jahresetat von **8 Milliarden Euro** einfach im
-Brei mitschwimmen. Man sollte für so wenig Geld aber auch nicht zuviel erwarten.
-Denn allein die arme ARD muss ihre [angesparten Rücklagen von 7,4 Milliarden Euro][gez-scam]
-als Pensionen an Mitarbeiter zahlen -- zusätzlich zur gesetzlichen Rente, versteht sich.
+Aufgrund einer aberwitzigen Datenlage, für die sich scheinbar niemand auch nur
+30 Minuten Zeit zur Interpretation und Hinterfragung nimmt, werden Entscheidungen
+getroffen, die jeglicher Abwägung entbehrt. Alle ducken und zittern vor Angst.
 
-Der gemeine Deutsche erkauft sich mit monatlich 17,50 € die Korruption
-jener Institutionen, die ihn als Wachhund der Öffentlichkeit auch vor Situationen
-schützen soll, die die Politik vorsätzlich misbraucht.
-
-Die derzeitigen Einschnitte in die Grundrechte werden [schon jetzt ausgenutzt][hass-gesetze].
+Die Einschnitte in die Grundrechte werden [schon jetzt ausgenutzt][hass-gesetze].
+Krankendaten gesetzlich Versicherter [will man ohne Einverständnis freigeben][krankendaten].
 Es wird von Notstandsgesetzen geredet. Von Einsatz des Militärs
 im Inneren. In Spanien und Italien gilt die totale Ausgangssperre und
 [Menschen werden verhaftet][spain-arrests].
@@ -301,6 +296,7 @@ wie folgt zitiert wird:
 [gates-invest]: https://www.outsourcing-pharma.com/Article/2020/03/27/Bill-Gates-big-pharma-collaborate-on-COVID-19-treatments
 [jhu-sources]: https://github.com/CSSEGISandData/COVID-19
 [hass-gesetze]: https://www.bundesrat.de/SharedDocs/beratungsvorgaenge/2020/0001-0100/0087-20.html
+[krankendaten]: https://www.mdr.de/nachrichten/politik/inland/kritik-digitale-versorgungs-gesetz-fehlender-datenschutz-100.html
 [rki-influenza-woche]: https://influenza.rki.de/Wochenberichte/2019_2020/2020-12.pdf
 [euromomo]: https://www.euromomo.eu/index.html
 [ioannidis]: https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/

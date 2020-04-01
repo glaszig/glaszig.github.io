@@ -253,15 +253,15 @@ Länder zählen wie sie wollen, ändern die Bemessungsgrundlagen nach Gutdünken
 mitten im Erhebungsprozess und die Medien befeuern die Panik durch
 unreflektierte Berichterstattung.
 
-Aufgrund einer aberwitzigen Datenlage, für die sich scheinbar niemand auch nur
-30 Minuten Zeit zur Interpretation und Hinterfragung nimmt, werden Entscheidungen
-getroffen, die jeglicher Abwägung entbehrt. Alle ducken und zittern vor Angst.
-
 Die Einschnitte in die Grundrechte werden [schon jetzt ausgenutzt][hass-gesetze].
 Krankendaten gesetzlich Versicherter [will man ohne Einverständnis freigeben][krankendaten].
 Es wird von Notstandsgesetzen geredet. Von Einsatz des Militärs
 im Inneren. In Spanien und Italien gilt die totale Ausgangssperre und
 [Menschen werden verhaftet][spain-arrests].
+
+All das aufgrund einer aberwitzigen Datenlage, für die sich scheinbar niemand
+auch nur 30 Minuten Zeit zur Analyse und Interpretation nimmt.
+Alle ducken und zittern vor Angst und rufen nach Maßnahmen ohne fundierter Abwägung.
 
 Welch Ironie, dass der italienische Schriftsteller [Ignazio Silone][silone]
 wie folgt zitiert wird:

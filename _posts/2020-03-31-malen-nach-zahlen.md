@@ -10,10 +10,7 @@ Knapp 40.000 Tote. 11.000 Corona-Tote [allein in Italien][italien-tote].
 Innerhalb von zwei Wochen steigt die Anzahl COVID-19-positiv Getesteter
 von 1.000 auf 23.000. Zur Zeit sind es 60.000.
 
-Spektakuläre Zahlen, die einer ganzen Menschheit Angst und Schrecken einflösen.
-Man bleibt zu Hause, hält Abstand, bunkert Klopapier und viele sind sich sicher:
-Ausgangssperren sind nötig. Freiheits- und Bürgerrechte müssen eingeschränkt
-werden. Datenschutz wird [verkehrt in Seuchenschutz][telekom-handydaten].
+Sehen wir uns diese spektakulären Zahlen genauer an.
 
 <figure>
 <img src="/static/sheeplog/jhu-dashboard.png" class="COVID-19-Dashboard" style="width:100%">
@@ -26,7 +23,7 @@ Textstellen nennen sich Link oder Verknüpfung. Diese kann man antippen oder
 um Quellenangaben. Quellen ermöglichen die Überprüfunung in einem Text
 getroffener Aussagen. Sie kennen das.
 
-## Was sagen diese Zahlen?
+## Statistisches
 
 Einer [Statistik][statistik] sollten empirische Daten (Erfahrungswerte) zugrunde liegen,
 die systematisch erfasst wurden, um eine Theorie zu überprüfen. Die Mittel
@@ -251,7 +248,8 @@ Mit Informationen, die dem etablierten "Journalismus" vom Tellerrand fielen,
 stellt man fest, dass jeder sein eigenes Hysterie-Süppchen kocht.
 Länder zählen wie sie wollen, ändern die Bemessungsgrundlagen nach Gutdünken
 mitten im Erhebungsprozess und die Medien befeuern die Panik durch
-unreflektierte Berichterstattung.
+unreflektierte Berichterstattung. Man ergeht sich lieber in [Denunzianismus][denunzianismus]
+und nimmt [Zukunftsvorhersagen][zukunft] für Bares.
 
 Die Einschnitte in die Grundrechte werden [schon jetzt ausgenutzt][hass-gesetze].
 Krankendaten gesetzlich Versicherter [will man ohne Einverständnis freigeben][krankendaten].
@@ -288,6 +286,8 @@ wie folgt zitiert wird:
 [italy-influenza-collapse]: https://milano.corriere.it/notizie/cronaca/18_gennaio_10/milano-terapie-intensive-collasso-l-influenza-gia-48-malati-gravi-molte-operazioni-rinviate-c9dc43a6-f5d1-11e7-9b06-fe054c3be5b2.shtml?refresh_ce-cp
 [eu-mortality]: https://de.statista.com/statistik/daten/studie/162187/umfrage/sterbefaelle-in-den-eu-laendern/
 [dts]: http://www.dts-nachrichtenagentur.de/corona-fallzahlen
+[denunzianismus]: https://taz.de/Corona-Zweifler-Wolfgang-Wodarg/!5674257/
+[zukunft]: https://www.focus.de/gesundheit/news/christian-drosten-vs-wolfgang-wodarg-drosten-zerlegt-thesen-von-lungenarzt_id_11788299.html
 [coronabonds]: https://lostineu.eu/coronabonds-gentiloni-widerspricht-leyen/
 [gentiloni]: https://de.wikipedia.org/wiki/Paolo_Gentiloni
 [h1n1]: https://www.youtube.com/watch?v=ZJfCdyT5f7U

@@ -61,7 +61,7 @@ mehr getestet wurde. Der Anstieg von 100 auf 300 sieht aber spektakulär aus.
 Genauso spektakulär ist, dass dem deutschen Gesundheitsministerium die Zahl
 der Tests nicht vorliegt. [Es gibt keine Meldepflicht][zahlen-irre].
 
-Es ist festzustellen, dass "Fallzahlen", wie die oben genannten 80.000 globalen
+Es ist festzustellen, dass "Fallzahlen", wie die oben genannten 800.000 weltweit
 Infizierungen, in diesem Zusammenhang noch nie in irgendeiner Weise
 aussagekräftig waren.
 

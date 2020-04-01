@@ -249,7 +249,7 @@ stellt man fest, dass jeder sein eigenes Hysterie-Süppchen kocht.
 Länder zählen wie sie wollen, ändern die Bemessungsgrundlagen nach Gutdünken
 mitten im Erhebungsprozess und die Medien befeuern die Panik durch
 unreflektierte Berichterstattung. Man ergeht sich lieber in [Denunzianismus][denunzianismus]
-und nimmt [Zukunftsvorhersagen][zukunft] für Bares.
+und [Zukunftsvorhersagen][zukunft].
 
 Die Einschnitte in die Grundrechte werden [schon jetzt ausgenutzt][hass-gesetze].
 Krankendaten gesetzlich Versicherter [will man ohne Einverständnis freigeben][krankendaten].

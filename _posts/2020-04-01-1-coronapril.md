@@ -5,7 +5,10 @@ date: 2020-04-01 23:53:28 +0200
 tags: []
 ---
 
-Virologen haben entdeckt: Vom wichsen bekommt man Corona!
+<p class="lead">
+  Virologen haben entdeckt: Vom wichsen bekommt man Corona!
+</p>
+
 
 <figure>
 <img src="/static/sheeplog/coronapril.png" alt="CoronApril" style="width:100%">

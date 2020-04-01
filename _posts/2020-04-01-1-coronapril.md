@@ -10,7 +10,7 @@ Virologen haben entdeckt: Vom wichsen bekommt man Corona!
 <figure>
 <img src="/static/sheeplog/coronapril.png" alt="CoronApril" style="width:100%">
 <figcaption>
-  <a href="https://twitter.com/BMG_Bund/status/1244967410303676416?s=20">https://twitter.com/BMG_Bund/status/1244967410303676416?s=20</a>
+  Quelle: <a href="https://twitter.com/BMG_Bund/status/1244967410303676416?s=20">Bundesministerium für Gesundheit</a>
 </figcaption>
 </figure>
 

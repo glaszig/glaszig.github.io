@@ -38,4 +38,13 @@ title: glasz
       {% endfor %}
     </div>
 	</section>
+
+	<section>
+		<h2>recent contributions on github</h2>
+
+		<div class="contributions">
+			{% capture gh_contribs %}{% include github_contributions.md %}{% endcapture %}
+			{{ gh_contribs | markdownify }}
+    </div>
+	</section>
 </article>

@@ -81,6 +81,17 @@ task :bootstrap_js do
   end
 end
 
+task :gh_contribs do
+  system "git submodule update --init"
+  Dir.chdir "Github-contributions" do
+    system "virtualenv -- venv"
+    system "source venv/bin/activate"
+    system "pip install -r requirements.txt"
+    system "./generate_markdown.py -r glaszig"
+  end
+  system "cp Github-contributions/output/contribution-list.md _includes/github_contributions.md"
+end
+
 def different?(path1, path2)
   require 'digest/md5'
   different = false

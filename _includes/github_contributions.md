@@ -1,5 +1,7 @@
+* [kevquirk/**512kb.club**](https://github.com/kevquirk/512kb.club/commits?author=glaszig)
 * [garritfra/**darktheme.club**](https://github.com/garritfra/darktheme.club/commits?author=glaszig)
 * [doctrine/**orm**](https://github.com/doctrine/orm/commits?author=glaszig)
+* [drone/**drone-plugin-index**](https://github.com/drone/drone-plugin-index/commits?author=glaszig)
 * [lucascudo/**laravel-pt-BR-localization**](https://github.com/lucascudo/laravel-pt-BR-localization/commits?author=glaszig)
 * [Drillster/**drone-email**](https://github.com/Drillster/drone-email/commits?author=glaszig)
 * [SeleniumHQ/**selenium**](https://github.com/SeleniumHQ/selenium/commits?author=glaszig)

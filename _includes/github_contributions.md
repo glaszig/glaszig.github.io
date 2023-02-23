@@ -1,3 +1,5 @@
+* [Podcastindex-org/**web-ui**](https://github.com/Podcastindex-org/web-ui/commits?author=glaszig)
+* [substancelab/**capistrano-remote**](https://github.com/substancelab/capistrano-remote/commits?author=glaszig)
 * [molybdenum-99/**mormor**](https://github.com/molybdenum-99/mormor/commits?author=glaszig)
 * [hotwired/**stimulus**](https://github.com/hotwired/stimulus/commits?author=glaszig)
 * [kevquirk/**512kb.club**](https://github.com/kevquirk/512kb.club/commits?author=glaszig)

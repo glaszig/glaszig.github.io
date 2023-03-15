@@ -11,8 +11,7 @@ $tablet: 40rem;
 }
 
 html {
-  background: #000;
-  background: linear-gradient(340deg, #000 0%, #000 70%, #343434 100%);
+  background: #151515;
   min-height: 100%;
   font-size: 16px;
 }
@@ -25,14 +24,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Teko';
+  font-family: 'Sen';
   font-weight: 400;
   .meta {
     font-weight: 300;
   }
-}
-h1, h2 {
-  text-shadow: 0 0 5px #fff;
 }
 
 h1 {
@@ -100,12 +96,10 @@ ul.styled {
   color: rgba(#fff, 0.7);
   h1 {
     color: #fff;
-    text-shadow: 0 0 3px #fff;
     line-height: 1;
     .meta {
       color: rgba(#fff, 0.7);
       font-weight: 300;
-      text-shadow: 0 0 3px rgba(#fff, 0.7);
     }
   }
   p {
@@ -122,12 +116,15 @@ ul.styled {
   display: inline-block;
   font-family: 'Teko';
   font-size: 2rem;
-  background: #f0f0f0;
+  background: rgba(#fff, 0.7);
   color: #343434 !important;
   box-shadow: 0 0 5px #343434;
   padding: 0.25rem 1rem;
   border-radius: 3px;
   border-bottom: 0 !important;
+  &:hover {
+    background: #f0f0f0;
+  }
 }
 
 .project-icon {
@@ -192,6 +189,20 @@ svg.github-icon {
         background-image: url("/static/projects/#{$project}-tablet.jpg");
       }
     }
+  }
+}
+
+.sheeplog {
+  word-break: all;
+  flex: 0 1 50%;
+  background-color: #1c1c1c;
+  border: 1px solid #252525;
+  box-shadow: 0 1px 20px #000;
+  font-size: 1.5rem;
+  border-radius: 3px;
+
+  p {
+    margin: 2rem;
   }
 }
 

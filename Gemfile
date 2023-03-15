@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gem 'rake'
 gem 'babosa'
-gem 'jekyll', "< 4"
+gem 'jekyll'
 gem "kramdown-parser-gfm", "~> 1.1"

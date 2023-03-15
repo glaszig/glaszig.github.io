@@ -82,9 +82,9 @@ div.highlight,
 p code {
   background-color: #1c1c1c;
   border: 1px solid #242424;
-}
-p code {
   padding: 0.25rem;
+}
+code {
   color: lightyellow;
 }
 
@@ -93,6 +93,9 @@ figure.highlight,
 div.highlight {
   margin-left: -1rem;
   margin-right: -1rem;
+}
+.highlight {
+  font-size: 0.9rem;
 }
 .highlight,
 .highlight pre,

@@ -48,6 +48,10 @@ what this does:
 you'll need to configure a proper `SMTPHOST` and adjust the the other
 environment variables.
 
+> **note**: the step configuration above will _only_ notify you via email.
+> to stop the pipeline you'll need to make on of the commands produce a
+> non-zero return code and remove the `failure: ignore` option.
+
 [drone.io]: https://www.drone.io
 [osv-scanner]: https://github.com/google/osv-scanner
 [anmalkov]: https://hub.docker.com/r/anmalkov/osv-scanner/

@@ -12,8 +12,8 @@ title: glasz
 				</a> -->
 			</h1>
 		</header>
-		<p>need help turning your idea into a working product, adding features or extending your infrastructure?</p>
-		<p>i can help across the entire stack with more than a decade of experience.</p>
+		<p class="lead">need help turning your idea into a working product, adding features or extending your infrastructure?</p>
+		<p class="lead">i can help across the entire stack with more than a decade of experience.</p>
 
 		<p><a href="mailto:{{ site.email }}" class="button">contact me</a></p>
 	</section>
@@ -24,16 +24,18 @@ title: glasz
 		<div class="projects">
       {% for project in site.data.projects %}
 			<figure class="{{ project.id }}">
+				<a href="{{ project.link }}">
 				<div class="shot"></div>
 				<figcaption>
-					<h3><a href="{{ project.link }}">{{ project.title }}</a></h3>
+					<h3>{{ project.title }}</h3>
 					<p>{{ project.intro }}</p>
-					<p>
+					<p class="labels">
 						{% for tag in project.tags %}
 						<span class="label">{{ tag }}</span>
 						{% endfor %}
 					</p>
 				</figcaption>
+				</a>
 			</figure>
       {% endfor %}
     </div>
@@ -42,7 +44,7 @@ title: glasz
 	<section class="sheeplog">
 		{% if site.posts.first %}
 			<p>
-				blog: <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }} &mdash; {{ site.posts.first.excerpt | strip_html }}</a> <span>&raquo;</span>
+				blog: <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a> <span>&raquo;</span>
 			</p>
 		{% endif %}
 	</section>

@@ -115,14 +115,21 @@ ul.styled {
   }
 }
 
+nav.i18n {
+  margin: 1rem 0;
+  .active {
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 0;
+  }
+}
+
 .button {
   display: inline-block;
-  font-family: 'Teko';
-  font-size: 2rem;
   background: rgba(#fff, 0.7);
   color: #343434 !important;
   box-shadow: 0 0 5px #343434;
-  padding: 0.25rem 1rem;
+  padding: 0.5rem 1rem;
   border-radius: 3px;
   border-bottom: 0 !important;
   &:hover {

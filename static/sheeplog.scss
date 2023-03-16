@@ -157,26 +157,32 @@ button[type=submit] {
 }
 .post-navigation {
   display: flex;
+  flex: 0 1 auto;
+  justify-content: space-between;
   > a {
+    transition: background-color .2s;
+    display: flex;
+    align-items: center;
     word-break: all;
-    flex: 0 1 50%;
     background-color: #1c1c1c;
     border: 1px solid #252525;
-    padding: 1rem;
-    box-shadow: 0 3px 6px #000;
+    padding: 0.5rem;
+    box-shadow: 0 2px 4px #000;
     margin-left: 0.5rem;
     margin-right: 0.5rem;
     &:last-child {  margin-right: -1rem; text-align: right; }
     &:first-child { margin-left: -1rem; text-align: left; }
     &:hover {
-      background-color: #1e1e1e;
+      background-color: #2a2a2a;
       border-color: #242424;
       text-decoration: none;
     }
+    span { margin: 0 0.5rem; }
   }
   svg {
-    width: 24px;
-    height: 24px;
+    flex-shrink: 0;
+    width: 12px;
+    height: 20px;
     fill: #fff;
     vertical-align: middle;
   }

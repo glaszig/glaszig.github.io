@@ -19,7 +19,7 @@ insights:
 Let's just picture the scene:
 
 <figure>
-  <img src="/static/sheeplog/lobbyplag-governments.png" class="img-responsive" style="width:100%">
+  <img src="/static/sheeplog/lobbyplag-governments.jpg" class="img-responsive" style="width:100%">
 </figure>
 
 For the incomprehensible sheep: German's government thugs are the driving force

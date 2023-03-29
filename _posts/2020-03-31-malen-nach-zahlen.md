@@ -13,7 +13,7 @@ von 1.000 auf 23.000. Zur Zeit sind es 60.000.
 Sehen wir uns diese spektakulären Zahlen genauer an.
 
 <figure>
-<img src="/static/sheeplog/jhu-dashboard.png" class="COVID-19-Dashboard" style="width:100%">
+<img src="/static/sheeplog/jhu-dashboard.jpg" class="COVID-19-Dashboard" style="width:100%">
 </figure>
 
 > **An alle neu Hinzugestoßenen hier im Neuland**:  
@@ -67,7 +67,7 @@ aus dem [Wochenreport 12][rki-influenza-woche] (14.3. bis 20.3.2020) des RKI.
 **Diese enthält auch COVID-19-Fälle.**
 
 <figure>
-<img src="/static/sheeplog/rki-agi.png" class="Verlauf akuter Atemwegserkrankungen" style="width:100%">
+<img src="/static/sheeplog/rki-agi.jpg" class="Verlauf akuter Atemwegserkrankungen" style="width:100%">
 </figure>
 
 Zu sehen ist, dass die aktuelle Grippewelle wie in jedem Jahr abklingt und
@@ -132,7 +132,7 @@ zeigt die Anzahl der Sterbefälle aller Altersstufen in Europa pro Woche
 seit Woche 4, 2016. Man beachte den weiterhin normalen Verlauf.
 
 <figure>
-<img src="/static/sheeplog/euromomo.png" class="Verlauf akuter Atemwegserkrankungen" style="width:100%">
+<img src="/static/sheeplog/euromomo.jpg" class="Verlauf akuter Atemwegserkrankungen" style="width:100%">
 </figure>
 
 Die _einzigen relativ zuverlässigen_ Daten, die unter Beobachtung einer geschlossen

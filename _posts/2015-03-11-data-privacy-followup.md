@@ -18,7 +18,9 @@ insights:
 
 Let's just picture the scene:
 
-<img src="/static/sheeplog/lobbyplag-governments.png" class="img-responsive">
+<figure>
+  <img src="/static/sheeplog/lobbyplag-governments.png" class="img-responsive" style="width:100%">
+</figure>
 
 For the incomprehensible sheep: German's government thugs are the driving force
 behind contributions to the data protection reform which are detriment to the

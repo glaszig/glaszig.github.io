@@ -7,8 +7,6 @@ feed_url: /feed.xml
 email: mail@glasz.org
 sass:
   style: compressed
-  load_paths:
-    - bootstrap-sass/assets/stylesheets
 kramdown:
   input: GFM
   hard_wrap: false

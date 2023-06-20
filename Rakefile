@@ -3,7 +3,8 @@
 task :post do
   title = ENV['title']
   date = Time.now.strftime '%Y-%m-%d'
-  filename = "_posts/#{date}-#{title.to_slug.normalize}.md"
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  filename = "_posts/#{date}-#{slug}.md"
 
   if File.exist? filename
     abort "#{filename} already exists!"

@@ -24,7 +24,7 @@ end
 task :gh_contribs do
   system "git submodule update --init"
   Dir.chdir "Github-contributions" do
-    system "virtualenv -- venv"
+    # system "python3 -m venv venv"
     system "source venv/bin/activate"
     system "pip install -r requirements.txt"
     system "./generate_markdown.py -r glaszig"

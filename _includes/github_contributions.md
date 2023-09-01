@@ -23,6 +23,7 @@
 * [hanami/**mailer**](https://github.com/hanami/mailer/commits?author=glaszig)
 * [rails/**rails**](https://github.com/rails/rails/commits?author=glaszig)
 * [railslove/**rack-tracker**](https://github.com/railslove/rack-tracker/commits?author=glaszig)
+* [ruby/**ruby**](https://github.com/ruby/ruby/commits?author=glaszig)
 * [ruby/**date**](https://github.com/ruby/date/commits?author=glaszig)
 * [milligram/**milligram.github.io**](https://github.com/milligram/milligram.github.io/commits?author=glaszig)
 * [RaspAP/**raspap-webgui**](https://github.com/RaspAP/raspap-webgui/commits?author=glaszig)

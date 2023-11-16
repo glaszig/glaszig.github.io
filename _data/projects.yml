@@ -12,7 +12,7 @@
 
 - id: starve
   title: Starve
-  link: https://starve.de
+  link: https://starve.glasz.org
   intro: a simple feed reader.
   tags:
     - ruby
@@ -24,8 +24,8 @@
     - backend
 
 - id: cocktailicious
-  title: Cocktailicious
-  link: https://cocktailiciousapp.com
+  title: Cocktailicious (shut down)
+  link: https://glasz.org
   intro: your drinking notebook.
   tags:
     - objective c

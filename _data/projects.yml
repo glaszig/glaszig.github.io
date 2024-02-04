@@ -15,10 +15,8 @@
   tags:
     - ruby
     - rails
-    - javascript
     - email
-    - frontend
-    - backend
+    - saas
 
 - id: starve
   title: Starve
@@ -27,11 +25,8 @@
   tags:
     - ruby
     - rails
-    - javascript
     - rss
-    - atom
-    - frontend
-    - backend
+    - saas
 
 - id: cocktailicious
   title: Cocktailicious (shut down)

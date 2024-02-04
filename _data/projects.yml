@@ -1,3 +1,13 @@
+- id: hookup
+  title: hookup.email
+  link: https://hookup.email
+  intro: Forward Emails to your Webhook.
+  tags:
+    - elixir
+    - erlang
+    - email
+    - saas
+
 - id: bubble
   title: bubble.email
   link: https://bubble.email

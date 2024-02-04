@@ -195,7 +195,7 @@ svg.github-icon {
     }
   }
 
-  @each $project in (bubble starve cocktailicious) {
+  @each $project in (hookup bubble starve cocktailicious) {
     .#{$project} .shot {
       background-image: url("/static/projects/#{$project}.jpg");
       @media (min-width: $tablet) {

@@ -48,6 +48,7 @@ article a { text-decoration: underline; }
 h1, h2, h3 {
   color: #fff;
   line-height: 1;
+  margin-top: 6rem;
   a {
     color: inherit;
     text-decoration: none;
@@ -80,6 +81,8 @@ blockquote,
 figure.highlight,
 div.highlight,
 p code {
+  margin-top: 1em;
+  margin-bottom: 1em;
   background-color: #1c1c1c;
   border: 1px solid #242424;
   padding: 0.25rem;
@@ -153,6 +156,7 @@ button[type=submit] {
 .post-date, .tags {
   white-space: nowrap;
   font-weight: lighter;
+  font-size: 0.75em;
   color: #ccc;
 }
 .post-navigation {

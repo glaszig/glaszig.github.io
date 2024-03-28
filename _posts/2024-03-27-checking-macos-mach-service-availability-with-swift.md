@@ -75,7 +75,7 @@ task_get_bs_port(mach_task_current(), &service_port)
 
 Simply do what the macros do.
 
-The slightly tricker part was `mach_task_self()`. XNU's version gives you
+The slightly trickier part was `mach_task_self()`. XNU's version gives you
 `mach_task_self_` which mach initializes with the return value of `task_self_trap()`.
 Using `mach_task_self_` directly is possible but ugly.
 
@@ -93,7 +93,9 @@ func machServiceAvailable(_ endpoint: String) -> Bool {
 
 ## Option 3
 
-Do none of the above. Use:
+Do none of the above.
+
+XNU actually stores the current tasks bootstrap port in `bootstrap_port`:
 
 
 ```swift
@@ -103,9 +105,6 @@ func machServiceAvailable(_ endpoint: String) -> Bool {
     return KERN_SUCCESS == result
 }
 ```
-
-XNU actually stores the current tasks bootstrap port in `bootstrap_port`.
-But at least now you know how to get around Swift-with-C quirks.
 
 See the PoC for CVE-2018-4280 for a [neat implementaion of almost the same][l3].
 

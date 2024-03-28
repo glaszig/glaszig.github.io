@@ -1,3 +1,4 @@
+* [gen-smtp/**gen_smtp**](https://github.com/gen-smtp/gen_smtp/commits?author=glaszig)
 * [gregschmit/**recurring_select**](https://github.com/gregschmit/recurring_select/commits?author=glaszig)
 * [geerlingguy/**ansible-role-filebeat**](https://github.com/geerlingguy/ansible-role-filebeat/commits?author=glaszig)
 * [Podcastindex-org/**web-ui**](https://github.com/Podcastindex-org/web-ui/commits?author=glaszig)

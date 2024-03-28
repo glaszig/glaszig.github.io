@@ -34,7 +34,7 @@ Both are "complex macros" and therefore not callable from Swift. Yikes.
 ## Option 1
 
 Write your own C helpers. Beware that they cannot have the name of the originals
-because there already are macros with the same name. You'll also need a briding
+because there already are macros with the same name. You'll also need a bridging
 header (which Xcode takes care of for you when you add a C file to your project).
 
 ```c

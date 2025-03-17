@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: "su: pam_start: System error (FreeBSD 14)"
-date: 2025-03-17 15:05:19 -0300
+date: 2025-03-17 18:05:19
 tags:
   - freebsd
   - pam

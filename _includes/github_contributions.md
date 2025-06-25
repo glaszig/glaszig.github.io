@@ -1,3 +1,4 @@
+* [ggml-org/**whisper.cpp**](https://github.com/ggml-org/whisper.cpp/commits?author=glaszig)
 * [basecamp/**kamal-site**](https://github.com/basecamp/kamal-site/commits?author=glaszig)
 * [gen-smtp/**gen_smtp**](https://github.com/gen-smtp/gen_smtp/commits?author=glaszig)
 * [ice-cube-ruby/**ice_cube**](https://github.com/ice-cube-ruby/ice_cube/commits?author=glaszig)

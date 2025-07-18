@@ -201,3 +201,7 @@ button[type=submit] {
   text-align: right;
 }
 
+input[id="mce-EMAIL_VERIFICATION"] {
+  position: absolute;
+  left: -9999px;
+}

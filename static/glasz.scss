@@ -1,6 +1,7 @@
 ---
 ---
 
+@use "sass:list";
 @import "fonts";
 
 $tablet: 40rem;
@@ -196,10 +197,16 @@ svg.github-icon {
   }
 
   @each $project in (hookup bubble starve cocktailicious) {
+    $ext: "jpg";
+
+    @if list.index(starve, $project) {
+      $ext: "webp";
+    }
+
     .#{$project} .shot {
-      background-image: url("/static/projects/#{$project}.jpg");
+      background-image: url("/static/projects/#{$project}.#{$ext}");
       @media (min-width: $tablet) {
-        background-image: url("/static/projects/#{$project}-tablet.jpg");
+        background-image: url("/static/projects/#{$project}-tablet.#{$ext}");
       }
     }
   }

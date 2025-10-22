@@ -1,7 +1,6 @@
 ---
 ---
 
-@use "sass:list";
 @import "fonts";
 
 $tablet: 40rem;
@@ -198,8 +197,7 @@ svg.github-icon {
 
   @each $project in (hookup bubble starve cocktailicious) {
     $ext: "jpg";
-
-    @if list.index(starve, $project) {
+    @if index(starve, $project) {
       $ext: "webp";
     }
 
